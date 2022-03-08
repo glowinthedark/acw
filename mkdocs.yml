@@ -1,6 +1,8 @@
 site_name: Alan's ACT Archive
 site_url: http://xhumanoid.com/alan/lightlink
 site_dir: site
+use_directory_urls: false
+
 
 theme: 
     name: material
