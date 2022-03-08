@@ -1,10 +1,10 @@
 ## WHAT IS SOVEREIGNTY?
 
-Main Entry: sovï¿½erï¿½eignï¿½ty
-Variant(s): also sovï¿½ranï¿½ty /-tE/
+Main Entry: sov�er�eign�ty
+Variant(s): also sov�ran�ty /-tE/
 Function: noun
 Inflected Form(s): plural -ties
-Etymology: Middle English soverainte, from Middle French soverainetï¿½,
+Etymology: Middle English soverainte, from Middle French soverainet�,
 from Old French, from
 soverain
 Date: 14th century
@@ -45,16 +45,16 @@ to be "engulfed" by others.
 So many of the problems on many cases stem from this one area of "being
 engulfed" by another or others.
 
-Main Entry: enï¿½gulf
+Main Entry: en�gulf
 Pronunciation: in-'g&lf, en-
 Function: transitive verb
 Date: 1555
 
-1 : to flow over and enclose : OVERWHELM "the mounting seas threatened
-to engulf the island"
+1 : to flow over and enclose : OVERWHELM <the mounting seas threatened
+to engulf the island>
 
 2 : to take in (food) by or as if by flowing over and enclosing
-- enï¿½gulfï¿½ment /-m&nt/ noun
+- en�gulf�ment /-m&nt/ noun
 
 "Being engulfed" is somewhat akin to being eaten by someone or
 something. When a universe collapses in on a being it gives him the
