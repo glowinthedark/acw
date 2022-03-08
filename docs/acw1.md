@@ -175,17 +175,16 @@ it.
 AN EFFECTIVE TRUE FRIEND is someone who can IMPLEMENT THE FOLLOWING FORMULA:
 
 1.  Get into meaningful communication with someone with the intent
-to help them FIND and CONCEPTUALIZE HOLOGRAPHICALLY what it is they
-REALLY WANT.
+
+to help them FIND and CONCEPTUALIZE HOLOGRAPHICALLY what it is they REALLY WANT.
 
 2.  Be able to observe accurately and correctly with the intent to
+
 FIND and CONCEPTUALIZE HOLOGRAPHICALLY what it is they REALLY WANT.
 
-3.  Able to ask the right questions to FIND and CONCEPTUALIZE
-HOLOGRAPHICALLY what it is they REALLY WANT.
+3.  Able to ask the right questions to FIND and CONCEPTUALIZE HOLOGRAPHICALLY what it is they REALLY WANT.
 
-4.  STATE ACCURATELY and NAME with FULL HOLOGRAPHIC IMAGERY exactly
-what it is they REALLY WANT.
+4.  STATE ACCURATELY and NAME with FULL HOLOGRAPHIC IMAGERY exactly what it is they REALLY WANT.
 
 5.  DO EVERYTHING WITHIN YOUR POWER TO HELP THEM OBTAIN WHAT THEY REALLY WANT.
 
@@ -534,3 +533,10 @@ ALAN C. WALTER
 Copyright © 1996 Alan C. Walter ALL RIGHTS RESERVED
 ____________________________________________________________________
 21st Century New Public Series 9
+
+
+
+
+
+
+

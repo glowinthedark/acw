@@ -169,10 +169,7 @@ Alan
 
 
 ------------------------------------------------------------------------
-
-Homer Wilson SmithThe paths of lovers    Art Matrix - Lightlink
-
-(607) 277-0959cross in    Internet Access, Ithaca NY
-
-homer@lightlink.comthe line of duty.http://www.lightlink.com
+Homer Wilson Smith     The paths of lovers    Art Matrix - Lightlink
+(607) 277-0959               cross in         Internet Access, Ithaca NY
+homer@lightlink.com     the line of duty.     http://www.lightlink.com
 

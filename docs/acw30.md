@@ -2,7 +2,7 @@
 LIFE, SESSIONS and ENERGY
 
 The simplicity of life is it experienced by the interchange of energies
-between point Aï¿½s and point Bï¿½s.
+between point A’s and point B’s.
 
 A session is a microcosm of life. Point A: The Processor. - Point B: The
 client.
@@ -39,7 +39,6 @@ I personally keep things very simplistic in session. I look for:
 cheerful. A happy camper!
 
 2.    Is the mood level negative?
-
 This is pretty much self evident. The client looks grim, serious, glum
 or sad. An unhappy camper!
 
@@ -47,7 +46,7 @@ If number 2 is present, the mood level is negative. I am alerted to the
 possibility of potential By-Passed Charge.
 
 The client is also a point A too many, in his/her life. Knowing this,
-then the clients flows to their point Bï¿½s could be influencing the
+then the clients flows to their point B’s could be influencing the
 indicators, or it might be between me and the client.
 
 This brings a further flow line into play:
@@ -58,9 +57,9 @@ Most times a simple question such as: What is your attention on? will
 free the stuck negativity energy creating point.  The client goes to
 where their attention is (outside session space point C) by following
 the energy flow line to it. And then relays from that point C back to
-himself and then back to the processor: ï¿½Oh! I had a fight with the wife
-this morning, behaved rather badly,ï¿½ laughs - pauses - ï¿½better
-apologize.ï¿½ Attention frees up. The clients mood level goes positive.
+himself and then back to the processor: “Oh! I had a fight with the wife
+this morning, behaved rather badly,’ laughs - pauses - “better
+apologize.” Attention frees up. The clients mood level goes positive.
 
 The Processor to =>Client - Client to =>Outside session Point C. Sets
 up an ever widening sphere of influence and spacation for both the
@@ -70,10 +69,10 @@ themselves following this sequence:
 
 Outside session Point C. = to =>Client - Client to =>The Processor.
 
-This is known as the ï¿½itsa-maker line.ï¿½ THE MOST IMPORTANT ENERGY FLOW LINE IN PROCESSING.
+This is known as the “itsa-maker line.” THE MOST IMPORTANT ENERGY FLOW LINE IN PROCESSING.
 
-For if this ï¿½itsa-maker line.ï¿½ is not present then the client and
-processor cannot change the energy flows or point Bï¿½ or point Cï¿½s from
+For if this “itsa-maker line.” is not present then the client and
+processor cannot change the energy flows or point B’ or point C’s from
 NEGATIVE to POSITIVE.
 
 The Processor to =>Client - Client to =>Outside session Point C. -
@@ -115,7 +114,7 @@ is repaired and in good working order.
 
 A non-working itsa-maker line can cause processing to not work.
 
-An example of this was a client who came to us, she had , had 100ï¿½s of
+An example of this was a client who came to us, she had , had 100’s of
 hours of processing in other practices.
 
 After the first three short sessions my lead processor called me and
@@ -127,12 +126,12 @@ He did just that.
 
 The drop in mood came as soon as he asked the first question.
 
-So I instructed him to ask: ï¿½What happens when I ask you a question -
-pause - does it remind you of something?ï¿½
+So I instructed him to ask: “What happens when I ask you a question -
+pause - does it remind you of something?”
 
-He did that, the clients answer: ï¿½ Well yes. my mother always asked me a
-question and as I went answer it she would say ï¿½I donï¿½t want to know
-about it!ï¿½ and storm off.ï¿½
+He did that, the clients answer: “Well yes. my mother always asked me a
+question and as I went answer it she would say “I don’t want to know
+about it!” and storm off.”
 
 So I had the processor run:
 
@@ -146,8 +145,8 @@ c.   What was your answer to that. Any other answers.
 Steps a. - b. - c. were run over and over again to very causative
 indicators, the full Green Zone Truth Phenomena.
 
-This ran for almost 25 hours. There were 1000ï¿½s of questions and
-10,000ï¿½s of undelivered communications. The By-Passed Charge on
+This ran for almost 25 hours. There were 1000’s of questions and
+10,000’s of undelivered communications. The By-Passed Charge on
 answering questions was enormous. It instantly destroyed the effective
 eductive comm cycle. Once this was handled she ran like clockwork. The
 changes in her life for the better from that time were immense.

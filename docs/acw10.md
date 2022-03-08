@@ -7,10 +7,11 @@ come from violations of desires, goals and wants.
 
 Homer
 
+
 ------------------------------------------------------------------------
-Homer Wilson SmithNews, Web, Telnet Art Matrix - Lightlink
-(607) 277-0959    E-mail, FTP, ShellInternet Access, Ithaca NY
-homer@lightlink.com    info@lightlink.comhttp://www.lightlink.com
+Homer Wilson Smith     News, Web, Telnet      Art Matrix - Lightlink
+(607) 277-0959         E-mail, FTP, Shell     Internet Access, Ithaca NY
+homer@lightlink.com    info@lightlink.com     http://www.lightlink.com
 
 On Tue, 10 Jun 1997, Alan Walter wrote:
 
@@ -114,3 +115,4 @@ On Tue, 10 Jun 1997, Alan Walter wrote:
 > 
 > Alan
 > 
+

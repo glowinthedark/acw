@@ -4,9 +4,9 @@ Homer W. Smith wrote:
 > > >Is there a mood you are unwilling to experience? Will unlock most
 > > >MASSES.
 > 
->How is a Mood different from an Emotion?
+>     How is a Mood different from an Emotion?
 > 
->Homer
+>     Homer
 
 As you can observe not very much, I found the general public could
 answer the mood question where-as they tended to have difficulty with

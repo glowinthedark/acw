@@ -1,13 +1,13 @@
 
 homer@lightlink.com wrote:
 > 
-> The OT is able to set up both a good guy and a bad guy and let them
+>      The OT is able to set up both a good guy and a bad guy and let them
 > go at it with each other, all the while being both.
 > 
-> In being both there is no pain, as pain comes from separation and
+>      In being both there is no pain, as pain comes from separation and
 > resistence.
 > 
-> This is a miraculous state, way beyond most people at this time.
+>      This is a miraculous state, way beyond most people at this time.
 > 
 
 ## PAIN
@@ -106,7 +106,7 @@ until it becomes unbearable, at which point you are forced to be absent
 or leave the area.
 
 Such problems as divorce, relationship problems, call reluctance,
-inability to finish a job, canï¿½t close, success reluctance, canï¿½t study,
+inability to finish a job, can’t close, success reluctance, can’t study,
 etc., are all caused by constant, long-term abrasive frictions.
 
 2.	IMPACT.  This is the sudden forceful collision with someone or
@@ -138,9 +138,9 @@ elimination of abrasive friction and replacing it with harmony.
 ## THE LIFE OUTCOMES
 
 There are five areas of life outcomes that are the products of the
-processes of the combinations and alignments of the Spirit ï¿½ Perception
-ï¿½ Intention ï¿½ Vision ï¿½ Planning (Be ï¿½ model) ï¿½ Implementation (Do ï¿½
-action - skill) ï¿½ Outcome (Result ï¿½ product ï¿½ accomplishments ï¿½
+processes of the combinations and alignments of the Spirit — Perception
+— Intention — Vision — Planning (Be — model) — Implementation (Do —
+action - skill) — Outcome (Result — product — accomplishments —
 ownership).
 
 The above is the formula that defines the Ability Paradigm.
@@ -164,34 +164,34 @@ The Red Zone is predominantly areas of pain.
 
 ## FULL DEFINITION AND SYNONYMS OF PAIN:
 
-Back in 1929, the Websterï¿½s New International Dictionary had a much
+Back in 1929, the Webster’s New International Dictionary had a much
 stronger definition of pain than is contained in The American Heritage
 Dictionary.  Therefore, we have added the 1929 definition.
 
-PAIN:  n. [ME. peine, F. peine,  L. poena, penalty, punishment,
-torment, pain,   Gr. poinh penalty. ]  1.  Punishment; suffering or
+PAIN:  n. [ME. peine, F. peine, < L. poena, penalty, punishment,
+torment, pain, Gr. poinh penalty. ]  1.  Punishment; suffering or
 evil inflicted as a punishment for crime or connected with the
 commission of a crime; penalty; fine.  2.  A form of consciousness
 characterized by desire of escape or avoidance, and varying from slight
 uneasiness to extreme distress or torture;  an affection or feeling
 proceeding from a derangement of functions, disease, or bodily injury. 
-ï¿½The pain of Jesus Christ.ï¿½  (Chaucer).  ï¿½When I speak of bodily pain
+“The pain of Jesus Christ.”  (Chaucer).  “When I speak of bodily pain
 and pleasure of sense, I do not, of course, mean to imply that such pain
 pleasure is not mental.  I only mean that we are unable to assign its
-mental conditions, except in a vague . . . way.ï¿½  (G.F. Stout).  3.  The
+mental conditions, except in a vague . . . way.”  (G.F. Stout).  3.  The
 torment of hell or purgatory; hell; purgatory.  Obs. 4. pl. The throes
-or travail of childbirth; labor; ï¿½ formerly used also in the  sing. ï¿½She
+or travail of childbirth; labor; — formerly used also in the  sing. “She
 . . . travailed, for her pains came upon her.  (1 Sam. iv. 19).  5. 
 Distressing uneasiness of mind; mental suffering; grief;  Obs.,
 solicitude, apprehension, or anxiety.  6.  Labor; effort; trouble; also,
-difficulty. Obs.  7. Vet. pl. A scabby disease of horsesï¿½ feet.  8.  pl.
-Labor; toilsome effort; care or trouble;  ï¿½ also sometimes construed as
-sing.  ï¿½And all my pains is sorted to no proof.ï¿½  (Shakespeare).  ï¿½The
-labored earth your pains have sowed and tilled.ï¿½  (Dryden).  
+difficulty. Obs.  7. Vet. pl. A scabby disease of horses’ feet.  8.  pl.
+Labor; toilsome effort; care or trouble;  — also sometimes construed as
+sing.  “And all my pains is sorted to no proof.”  (Shakespeare).  “The
+labored earth your pains have sowed and tilled.”  (Dryden).  
 Syn.: — PAIN, ACHE.  PAIN denotes sharp, sharp, sometimes sudden, ACHE,
 continuous, often dull, bodily suffering; both words are used
-fig(uratively) of mental states, as, ï¿½They gnawed their tongues for
-pain.ï¿½ (Rev. xvi.10); ï¿½a fellow that never had the ache in his
-shouldersï¿½ (Shak.);  ï¿½Joy, . . .  too intense, is turned to painï¿½
-(Shelley); ï¿½By a sleep to say we end the heartacheï¿½  (Shak.).  See PANG, DISTRESS, EFFORT.
+fig(uratively) of mental states, as, “They gnawed their tongues for
+pain.” (Rev. xvi.10); “a fellow that never had the ache in his
+shoulders” (Shak.);  “Joy, . . .  too intense, is turned to pain”
+(Shelley); “By a sleep to say we end the heartache”  (Shak.).  See PANG, DISTRESS, EFFORT.
 

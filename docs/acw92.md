@@ -610,7 +610,5 @@ ALL RIGHTS RESERVED
 ---
 
 Homer Wilson Smith   Clear Air, Clear Water,  Art Matrix - Lightlink
-
-(607) 277-0959  A Green Earth and Peace. Internet Access, Ithaca NY
-
+(607) 277-0959       A Green Earth and Peace. Internet Access, Ithaca NY
 homer@lightlink.com  Is that too much to ask? http://www.lightlink.com

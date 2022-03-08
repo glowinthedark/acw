@@ -101,9 +101,7 @@ Function: noun
 Etymology: Middle English knowlege, from knowlechen to acknowledge,
 irregular from knowen
 Date: 14th century
-
 1 obsolete : COGNIZANCE
-
 2 a (1) : the fact or condition of knowing something with familiarity
 gained through experience or association (2) : acquaintance with or
 understanding of a science, art, or technique b (1) : the fact or
@@ -114,7 +112,6 @@ reasoning : COGNITION d : the fact or condition of having information or
 of being learned "a man of unusual knowledge"
 
 3 archaic : SEXUAL INTERCOURSE
-
 4 a : the sum of what is known : the body of truth, information, and
 principles acquired by mankind b archaic : a branch of learning
 synonyms KNOWLEDGE, LEARNING, ERUDITION, SCHOLARSHIP mean what is or can
@@ -342,6 +339,6 @@ Alan
  
 ---
 
-Homer Wilson SmithNews, Web, Telnet Art Matrix - Lightlink
-(607) 277-0959    E-mail, FTP, ShellInternet Access, Ithaca NY
-homer@lightlink.com    info@lightlink.comhttp://www.lightlink.com
+Homer Wilson Smith     News, Web, Telnet      Art Matrix - Lightlink
+(607) 277-0959         E-mail, FTP, Shell     Internet Access, Ithaca NY
+homer@lightlink.com    info@lightlink.com     http://www.lightlink.com

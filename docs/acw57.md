@@ -36,15 +36,15 @@ CEO's and School Principals recognize today that a major part of
 their hat is mentoring and coaching.
 
 Main Entry: educe
-Pronunciation: i-'dï¿½s also -'dyï¿½s
+Pronunciation: i-'düs also -'dyüs
 Function: transitive verb
-Inflected Form(s): educed; educï¿½ing
+Inflected Form(s): educed; educ·ing
 Etymology: Latin educere to draw out, from e- + ducere to lead — more at TOW
 Date: 1603
 1 : to bring out (as something latent)
 2 : DEDUCE
-- educï¿½ible /-'dï¿½-s&-b&l also -'dyï¿½-/ adjective
-- educï¿½tion /-'d&k-sh&n/ noun
+- educ·ible /-'dü-s&-b&l also -'dyü-/ adjective
+- educ·tion /-'d&k-sh&n/ noun
 
 synonyms EDUCE, EVOKE, ELICIT, EXTRACT, EXTORT mean to draw out
 something hidden, latent, or reserved.  EDUCE implies the bringing out
