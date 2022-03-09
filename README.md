@@ -22,5 +22,7 @@ The HTML files will be generated in the `site` folder.
 
 ### Configuration
 
+All configuration is done in the [mkdocs.yml](mkdocs.yml) file.
+
 - [mkdocs configuration](https://www.mkdocs.org/user-guide/configuration/)
 - customizing the [mkdocs material](https://squidfunk.github.io/mkdocs-material/customization/) theme
