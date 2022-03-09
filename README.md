@@ -10,7 +10,7 @@ Requirements
 - Install [material](https://squidfunk.github.io/mkdocs-material) theme for mkdocs
   + `pip3 install mkdocs-material`
 
-##### Build the HTML site
+### Build the HTML site
 
 To generate HTML from markdown files located in the `docs` folder run from the command line:
 
@@ -20,7 +20,7 @@ mkdocs build
 
 The HTML files will be generated in the `site` folder.
 
-##### Configuration
+### Configuration
 
 - [mkdocs configuration](https://www.mkdocs.org/user-guide/configuration/)
 - customizing the [mkdocs material](https://squidfunk.github.io/mkdocs-material/customization/) theme
