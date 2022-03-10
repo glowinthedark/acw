@@ -1,24 +1,28 @@
 Requirements
 ============
 
-- [Python3](https://python.org/download)
+- Install [Python3](https://python.org/download)
   + MacOS: `brew install python3`
   + Linux: `sudo apt install python3`
   + Windows: download and run the latest [Python 3.x](https://www.python.org/downloads/) installer
-- [mkdocs](https://mkdocs.org)
+- Install [mkdocs](https://mkdocs.org)
   + `pip3 install mkdocs`
-- [material](https://squidfunk.github.io/mkdocs-material) theme for mkdocs
+- Install [material](https://squidfunk.github.io/mkdocs-material) theme for mkdocs
   + `pip3 install mkdocs-material`
 
-##### Build the HTML site
+### Build the HTML site
 
-To generate HTML from markdown files run from the command line:
+To generate HTML from markdown files located in the `docs` folder run from the command line:
 
 ```bash
 mkdocs build
 ```
 
-##### Configuration
+The HTML files will be generated in the `site` folder.
+
+### Configuration
+
+All configuration is done in the [mkdocs.yml](mkdocs.yml) file.
 
 - [mkdocs configuration](https://www.mkdocs.org/user-guide/configuration/)
 - customizing the [mkdocs material](https://squidfunk.github.io/mkdocs-material/customization/) theme
