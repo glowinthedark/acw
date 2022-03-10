@@ -8,7 +8,6 @@ homer@lightlink.com wrote:
 > 
 > This is a miraculous state, way beyond most people at this time.
 
-
 ## PAIN
 
 As the source of separation is pain, then it is vital that we fully
