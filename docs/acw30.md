@@ -35,10 +35,12 @@ B should improve in mood level.
 I personally keep things very simplistic in session. I look for:
 
 1.    Is the mood level positive?
-> This is fairly easy to observe the client is usually smiling or
+
+This is fairly easy to observe the client is usually smiling or
 cheerful. A happy camper!
 
 2.    Is the mood level negative?
+
 This is pretty much self evident. The client looks grim, serious, glum
 or sad. An unhappy camper!
 
@@ -51,7 +53,7 @@ indicators, or it might be between me and the client.
 
 This brings a further flow line into play:
 
-Processor= to ==>Client - Client= to ==>Outside session Point C.
+Processor= to ==> Client - Client= to ==>Outside session Point C.
 
 Most times a simple question such as: What is your attention on? will
 free the stuck negativity energy creating point.  The client goes to
@@ -129,14 +131,13 @@ The drop in mood came as soon as he asked the first question.
 So I instructed him to ask: “What happens when I ask you a question -
 pause - does it remind you of something?”
 
-He did that, the clients answer: “Well yes. my mother always asked me a
+He did that, the clients answer: “ Well yes. my mother always asked me a
 question and as I went answer it she would say “I don’t want to know
 about it!” and storm off.”
 
 So I had the processor run:
 
-a.   What question did your mother ask you, that she did not want to
-know about?
+a.   What question did your mother ask you, that she did not want to know about?
 
 b.   Get the exact question, and run:
 

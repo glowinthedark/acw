@@ -12,9 +12,7 @@ Definitions:
 RIGHTNESS:  n.  1. The state or quality of being right.
 
 RIGHT:  adj.  1. In accordance with fact, reason, or truth; correct.
-
 2. Fitting, proper, or appropriate. 3. Most favorable, desirable, or
-
 convenient. Excerpted from the American Heritage Dictionary
 
 It is the last definition that allows perversions to enter into
@@ -36,17 +34,17 @@ How does a person arrive in this self destructive condition?
 
 There are multiple answers to this question.  They are:
 
-They have experienced too much abuse.
+- They have experienced too much abuse.
 
-Too much being made wrong.
+- Too much being made wrong.
 
-Too much punishment.
+- Too much punishment.
 
-Too much negativity.
+- Too much negativity.
 
-Too many loses.
+- Too many loses.
 
-Too many failures, etc., etc.
+- Too many failures, etc., etc.
 
 They have been around someone who has constantly made them wrong, which
 has forced them to maintain a Rightness that is not based on TRUTH,
@@ -174,21 +172,24 @@ it.
 
 AN EFFECTIVE TRUE FRIEND is someone who can IMPLEMENT THE FOLLOWING FORMULA:
 
-1.  Get into meaningful communication with someone with the intent
+1. Get into meaningful communication with someone with the intent
+ to help them FIND and CONCEPTUALIZE HOLOGRAPHICALLY what it is they
+ REALLY WANT.
 
-to help them FIND and CONCEPTUALIZE HOLOGRAPHICALLY what it is they REALLY WANT.
-
-2.  Be able to observe accurately and correctly with the intent to
-
+2. Be able to observe accurately and correctly with the intent to
 FIND and CONCEPTUALIZE HOLOGRAPHICALLY what it is they REALLY WANT.
 
-3.  Able to ask the right questions to FIND and CONCEPTUALIZE HOLOGRAPHICALLY what it is they REALLY WANT.
+3. Able to ask the right questions to FIND and CONCEPTUALIZE
+ HOLOGRAPHICALLY what it is they REALLY WANT.
 
-4.  STATE ACCURATELY and NAME with FULL HOLOGRAPHIC IMAGERY exactly what it is they REALLY WANT.
+4. STATE ACCURATELY and NAME with FULL HOLOGRAPHIC IMAGERY exactly
+ what it is they REALLY WANT.
 
-5.  DO EVERYTHING WITHIN YOUR POWER TO HELP THEM OBTAIN WHAT THEY REALLY WANT.
+5. DO EVERYTHING WITHIN YOUR POWER TO HELP THEM OBTAIN WHAT THEY
+ REALLY WANT.
 
-6.  REPEAT STEPS 1 TO 5 OVER AND OVER TO ETERNITY.
+6. REPEAT STEPS 1 TO 5 OVER AND OVER TO ETERNITY.
+
 
 Using the above formula, I brought my income from $40 a week to $60,000
 a week over a period of ten years. Each year would show an increase over
@@ -202,7 +203,7 @@ REALLY WANTED.
 
 The simplified power formula for success, prosperity and happiness is:
 
-"Find what a person REALLY WANTS, and HELP them get IT."
+> _"Find what a person REALLY WANTS, and HELP them get IT."_
 
 ## CAUSING PLEASURABLE EXPERIENCES
 
@@ -228,29 +229,22 @@ There are several causes that prevent the implementation of the power
 formula.  They are:
 
 1.  Person or situation knowingly or unknowingly reminds you of a
-
 past abuse area or incident.
 
 2.  Triggering a secret, deeply hidden, involuntarily replicating
-
 Rightness destructive control mechanism.
 
 3.  You robotically acting out the Rightness destructive control
-
 mechanism.
 
 4.  You cannot communicate effectively.  (Your robotic behavior
-
 doesn't allow for sensible, precise, specific, easy to comprehend
-
 sentences.)
 
 5.  You are delusive.  The person or situation you are attempting to
-
 handle is triggering and placing you into the past.
 
 6.  You hate or deeply resent people.  (This causes you to only
-
 observe what is wrong, bad or evil in others.)
 
 7.  You must be right.
@@ -283,32 +277,21 @@ to be created.  They are:
 
 2. You have a DREAM or INTENTION.
 
-3. You have a COMPLETE HOLOGRAPHIC VISION of that DREAM or
+3. You have a COMPLETE HOLOGRAPHIC VISION of that DREAM or  INTENTION.
 
-## INTENTION.
-
-4. Your MIND has reinforced your HOLOGRAPHIC VISION with
-
-## MENTALIMAGE PICTURES.
+4. Your MIND has reinforced your HOLOGRAPHIC VISION with MENTALIMAGE PICTURES.
 
 5. You collide with someone who does not VALUE, ACKNOWLEDGE or
-
 APPRECIATE your DREAM, VISION OR CREATIONS, and who has their
-
 own RIGHTNESS they want to ENFORCE on YOU.
 
 6. You are viciously attacked, made nothing of, made wrong,
-
 punished and abused, none of which you wanted.
 
-7.  An "ALIEN UNWANTED OBJECT" is forced into your space and
-
-time.
+7.  An "ALIEN UNWANTED OBJECT" is forced into your space and time.
 
 8.  Your DREAMS, HOLOGRAPHIC VISIONS and CREATIONS COLLAPSE into
-
 chaotic rubble and cannot be reconstructed as the "ALIEN
-
 UNWANTED OBJECT" is now occupying their spaces and times.
 
 9.  A massive UPSET has been created.
@@ -318,16 +301,11 @@ UNWANTED OBJECT" is now occupying their spaces and times.
 11. Your DREAMS, VISIONS, and CREATIONS become unattainable.
 
 12. You create a RIGHTNESS DEFENSE CONTROL MECHANISM to suppress
-
 and manage the force, pain, unpleasant sensations, rage, hate,
-
 abuse and charge contained in the UPSET, in order to continue to
-
 survive in the present.
 
-13.  You now REAP the CONSEQUENCES of your RIGHTNESS DEFENSE
-
-## CONTROL MECHANISM.
+13.  You now REAP the CONSEQUENCES of your RIGHTNESS DEFENSE CONTROL MECHANISM.
 
 14.  You now cannot HAVE what you WANT.
 
@@ -383,11 +361,8 @@ made themselves weak by assigning away their power to some other cause.
 ## ABUSE — THE ULTIMATE NEGATIVE PROCESS, THE ABUSER — THE ULTIMATE NEGATIVE PROCESSOR
 
 Definition:   ABUSE:  tr. v.  1. To use wrongly or improperly;
-
 misuse. 2. To hurt or injure by maltreatment.  3. To assail with
-
 contemptuous, coarse, or insulting words; revile. Excerpted from the
-
 American Heritage Dictionary
 
 All abuse to you stems from "you receiving what you really do not want."

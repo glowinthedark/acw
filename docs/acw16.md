@@ -1,14 +1,13 @@
-
 homer@lightlink.com wrote:
 > 
->      The OT is able to set up both a good guy and a bad guy and let them
+> The OT is able to set up both a good guy and a bad guy and let them
 > go at it with each other, all the while being both.
 > 
->      In being both there is no pain, as pain comes from separation and
+> In being both there is no pain, as pain comes from separation and
 > resistence.
 > 
->      This is a miraculous state, way beyond most people at this time.
-> 
+> This is a miraculous state, way beyond most people at this time.
+
 
 ## PAIN
 
@@ -168,7 +167,7 @@ Back in 1929, the Webster’s New International Dictionary had a much
 stronger definition of pain than is contained in The American Heritage
 Dictionary.  Therefore, we have added the 1929 definition.
 
-PAIN:  n. [ME. peine, F. peine, < L. poena, penalty, punishment,
+PAIN:  n. [ME. peine, F. peine, L. poena, penalty, punishment,
 torment, pain, Gr. poinh penalty. ]  1.  Punishment; suffering or
 evil inflicted as a punishment for crime or connected with the
 commission of a crime; penalty; fine.  2.  A form of consciousness
