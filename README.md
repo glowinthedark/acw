@@ -29,4 +29,4 @@ All configuration is done in the [mkdocs.yml](mkdocs.yml) file.
 
 ### Live pages
 
-- https://glowinthedark.github.io/acw/site/
+- [glowinthedark.github.io/acw/site](https://glowinthedark.github.io/acw/site/)
