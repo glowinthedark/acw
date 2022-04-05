@@ -1,3 +1,11 @@
+### Live pages
+
+---
+
+# [OPEN MAIN PAGE — https://glowinthedark.github.io/acw/site](https://glowinthedark.github.io/acw/site/)
+
+---
+
 Requirements
 ============
 
@@ -27,6 +35,4 @@ All configuration is done in the [mkdocs.yml](mkdocs.yml) file.
 - [mkdocs configuration](https://www.mkdocs.org/user-guide/configuration/)
 - customizing the [mkdocs material](https://squidfunk.github.io/mkdocs-material/customization/) theme
 
-### Live pages
 
-- [glowinthedark.github.io/acw/site](https://glowinthedark.github.io/acw/site/)
