@@ -1,7 +1,3 @@
-### Live pages
-
----
-
 # [OPEN MAIN PAGE — https://glowinthedark.github.io/acw/site](https://glowinthedark.github.io/acw/site/)
 
 ---
