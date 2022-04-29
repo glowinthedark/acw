@@ -53,7 +53,7 @@ indicators, or it might be between me and the client.
 
 This brings a further flow line into play:
 
-Processor= to ==> Client - Client= to ==>Outside session Point C.
+Processor= to ==>Client - Client= to ==>Outside session Point C.
 
 Most times a simple question such as: What is your attention on? will
 free the stuck negativity energy creating point.  The client goes to
@@ -137,7 +137,8 @@ about it!” and storm off.”
 
 So I had the processor run:
 
-a.   What question did your mother ask you, that she did not want to know about?
+a.   What question did your mother ask you, that she did not want to
+know about?
 
 b.   Get the exact question, and run:
 

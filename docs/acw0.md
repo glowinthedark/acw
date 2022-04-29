@@ -76,6 +76,8 @@ in the area being handled.
 20. Moving up the levels of existence to maintaining a high Green Zone
 existence.
 
+---
+
 ## DEFINITIONS:
 
 TRUTH:  n.  The exact and precise correctness of spirit, knowledge,

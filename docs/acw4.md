@@ -175,7 +175,7 @@ will lay out the steps to be applied to a client.)
 1.  Have client read the list of ABUSE outcomes, indicators or
 products.
 
-2.  Make a list of those which apply to the client, ask:  
+2.  Make a list of those which apply to the client, ask:
 
 a.  What of these items applies to your life at this time?  (A new
 or highly charged client will probably answer all of them.

@@ -22,7 +22,7 @@ Having the Being's secret Code, is the key to decoding and finding those
 rules, those diguises, those creations, etc.
 
 Each being has a Key Code and Counter Code at the formation of his building
-his own universe and all susequent universe of his.
+his own universe and all subsequent universe of his.
 
 Ron alluded to this in The Factors. In the beginning was the decision to be.
 

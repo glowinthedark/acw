@@ -1,5 +1,4 @@
-
-LIFE, SESSIONS and ENERGY
+# LIFE, SESSIONS and ENERGY
 
 The simplicity of life is it experienced by the interchange of energies
 between point A’s and point B’s.
@@ -17,11 +16,11 @@ This sets up a flow line between point A and point B.
 
 A one way flow is:
 
-A=== to ====>B
+A &rarr; to &rarr; B
 
 A two way flow is:
 
-A=== to ====>B reverse B=== to ====>A
+A &rarr; to &rarr; B reverse B &rarr; to &rarr; A
 
 To cause an upgrade of the flow lines and points A and B the energy will
 be positive.
@@ -63,13 +62,13 @@ himself and then back to the processor: “Oh! I had a fight with the wife
 this morning, behaved rather badly,’ laughs - pauses - “better
 apologize.” Attention frees up. The clients mood level goes positive.
 
-The Processor to =>Client - Client to =>Outside session Point C. Sets
+The Processor to &rarr; Client - Client to &rarr; Outside session Point C. Sets
 up an ever widening sphere of influence and spacation for both the
 processor and client. Add to it the ability of the client to move to the
 location in time and place of the upset and them relay the data back via
 themselves following this sequence:
 
-Outside session Point C. = to =>Client - Client to =>The Processor.
+Outside session Point C.&rarr; to &rarr; Client - Client to &rarr; The Processor.
 
 This is known as the “itsa-maker line.” THE MOST IMPORTANT ENERGY FLOW LINE IN PROCESSING.
 
@@ -77,8 +76,8 @@ For if this “itsa-maker line.” is not present then the client and
 processor cannot change the energy flows or point B’ or point C’s from
 NEGATIVE to POSITIVE.
 
-The Processor to =>Client - Client to =>Outside session Point C. -
-Outside session Point C. = to =>Client - Client to =>The Processor,
+The Processor to &rarr; Client - Client to &rarr; Outside session Point C. -
+Outside session Point C.&rarr; to &rarr; Client - Client to &rarr; The Processor,
 is known as the full effective eductive communication cycle. This was
 first discovered and written about, as far back in time as Socrates. The
 eductive communication techniques have been known and applied by master

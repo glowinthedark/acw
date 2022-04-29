@@ -172,24 +172,29 @@ it.
 
 AN EFFECTIVE TRUE FRIEND is someone who can IMPLEMENT THE FOLLOWING FORMULA:
 
-1. Get into meaningful communication with someone with the intent
- to help them FIND and CONCEPTUALIZE HOLOGRAPHICALLY what it is they
- REALLY WANT.
+1.  Get into meaningful communication with someone with the intent
 
-2. Be able to observe accurately and correctly with the intent to
+to help them FIND and CONCEPTUALIZE HOLOGRAPHICALLY what it is they
+
+## REALLY WANT.
+
+2.  Be able to observe accurately and correctly with the intent to
+
 FIND and CONCEPTUALIZE HOLOGRAPHICALLY what it is they REALLY WANT.
 
-3. Able to ask the right questions to FIND and CONCEPTUALIZE
- HOLOGRAPHICALLY what it is they REALLY WANT.
+3.  Able to ask the right questions to FIND and CONCEPTUALIZE
 
-4. STATE ACCURATELY and NAME with FULL HOLOGRAPHIC IMAGERY exactly
- what it is they REALLY WANT.
+HOLOGRAPHICALLY what it is they REALLY WANT.
 
-5. DO EVERYTHING WITHIN YOUR POWER TO HELP THEM OBTAIN WHAT THEY
- REALLY WANT.
+4.  STATE ACCURATELY and NAME with FULL HOLOGRAPHIC IMAGERY exactly
 
-6. REPEAT STEPS 1 TO 5 OVER AND OVER TO ETERNITY.
+what it is they REALLY WANT.
 
+5.  DO EVERYTHING WITHIN YOUR POWER TO HELP THEM OBTAIN WHAT THEY
+
+## REALLY WANT.
+
+6.  REPEAT STEPS 1 TO 5 OVER AND OVER TO ETERNITY.
 
 Using the above formula, I brought my income from $40 a week to $60,000
 a week over a period of ten years. Each year would show an increase over
@@ -277,9 +282,11 @@ to be created.  They are:
 
 2. You have a DREAM or INTENTION.
 
-3. You have a COMPLETE HOLOGRAPHIC VISION of that DREAM or  INTENTION.
+3. You have a COMPLETE HOLOGRAPHIC VISION of that DREAM or
+INTENTION.
 
-4. Your MIND has reinforced your HOLOGRAPHIC VISION with MENTALIMAGE PICTURES.
+4. Your MIND has reinforced your HOLOGRAPHIC VISION with
+MENTALIMAGE PICTURES.
 
 5. You collide with someone who does not VALUE, ACKNOWLEDGE or
 APPRECIATE your DREAM, VISION OR CREATIONS, and who has their
@@ -288,7 +295,8 @@ own RIGHTNESS they want to ENFORCE on YOU.
 6. You are viciously attacked, made nothing of, made wrong,
 punished and abused, none of which you wanted.
 
-7.  An "ALIEN UNWANTED OBJECT" is forced into your space and time.
+7.  An "ALIEN UNWANTED OBJECT" is forced into your space and
+time.
 
 8.  Your DREAMS, HOLOGRAPHIC VISIONS and CREATIONS COLLAPSE into
 chaotic rubble and cannot be reconstructed as the "ALIEN
