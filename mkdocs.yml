@@ -181,4 +181,4 @@ nav:
       - "Tacit": tacit.md
       - "Who": who.md
       - "Wrong": wrong.md
-    - Index: index.md
+#    - Index: index.md
