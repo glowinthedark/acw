@@ -1,4 +1,4 @@
-# [OPEN MAIN PAGE — https://glowinthedark.github.io/acw/site](https://glowinthedark.github.io/acw/site/)
+#### [:earth_africa: _enter site_: https://glowinthedark.github.io/acw/index.html](https://glowinthedark.github.io/acw/index.html)
 
 ---
 
