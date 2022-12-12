@@ -1,4 +1,4 @@
-### [:link: _Enter site_   https://glowinthedark.github.io/acw/index.html :earth_africa:](https://glowinthedark.github.io/acw/index.html)
+### [:link: _Enter site_ :white_circle:  https://glowinthedark.github.io/acw :earth_africa:](https://glowinthedark.github.io/acw)
 
 ---
 
