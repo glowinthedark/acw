@@ -1,0 +1,183 @@
+site_name: Alan's ACT Archive
+site_url: http://xhumanoid.com/alan/lightlink
+site_dir: site
+use_directory_urls: false
+
+
+theme: 
+    name: material
+    highlightjs: false
+    font: false
+    palette:
+        primary: blue
+        accent: blue
+    extra:
+      generator: false
+    features:
+      - navigation.instant
+      - navigation.tracking
+      - navigation.expand
+      - navigation.tabs
+      - toc.follow
+      - toc.integrate
+      - search.highlight
+      - header.autohide
+      # - navigation.indexes
+# https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#anchor-tracking
+
+markdown_extensions:
+    - smarty
+    - toc:
+        permalink: True
+    - sane_lists
+    - admonition: {}
+    - pymdownx.smartsymbols
+
+
+# ORIGINAL SOURCE  
+# http://www.lightlink.com/archive/acw/
+# JS SEARCH: https://lunrjs.com/
+
+nav:
+    - Basics:
+      - "Process Basics": acw92.md
+      - "29 Levels of Operation": 29.md
+      - "The 29 Vital Upward Steps": acw9.md
+      - "The Basic Key To Prosperity": acw1.md
+      - "What Is Knowledgism?": acw18.md
+      - "What Is Sovereignty?": acw19.md
+      - "What Is Spiritual Processing?": acw20.md
+      - "What Is A Spiritual Beings Present Time?": acw21.md
+    - The Zones:
+      - "Green Zone Truth Phenomena": acw0.md
+      - "The True Reason For The Zones Technology": acw22.md
+      - "The Zones - The Basic Public By-passed Charge List": acw35.md
+    - Bypassed Charge:
+      - "Bypassed Charge Handling": acw34.md
+      - "BPC Handling Tech": acw27.md
+      - "Trouble and BPC": acw39.md
+      - "By-Passed Charge Handling History": acw45.md
+      - "Meter Responses And By-passed Charge": acw47.md
+      - "Case Timelessness, Unknowns And By-passed Charge": acw48.md
+      - "False Case States And Bpc": acw49.md
+      - "Orders Of Importance: What By-passed Charge To Process, When": acw38.md
+      - "The Demands Of By-passed Charge Handling": acw33.md
+    - Codes:
+      - "Codes": acw2.md
+      - "Codes": codes.md
+      - "Codes, Integrity, Virtues and Principals:": definitions.md
+    - Furies:
+      - "Technology Of The Furies": furies1.md
+      - "Furies 2": furies2.md
+      - "Fury Howto": furyhowto.md
+      - "Fury": acw76.md
+    - "Pain": acw3.md
+    - "Abuse": acw4.md
+    - More:
+      - "Agreement": acw5.md
+      - "Mass Handling": acw8.md
+      - "Mass": acw10.md
+      - "Mood": acw11.md
+      - "Pain": acw16.md
+      - "Goals": acw23.md
+      - "More Of — Less Of ": acw12.md
+      - "3DH Power Flow": acw13.md
+      - "3DH Areas": acw14.md
+      - "An Analysis Of The Golden Rule": acw15.md
+      - "The Way Out": acw17.md
+      - "Remote Viewing": acw24.md
+      - "ARC Breaks": acw25.md
+      - "How To Locate, Separate, And Process Cults": acw7.md
+      - "Locate and Indicate": acw26.md
+      - "Locate And Indicate History": acw44.md
+      - "Live TV session Story": acw28.md
+      - "What Is Charge And By-passed Charge?": acw29.md
+      - "Life, Sessions and Energy": acw30.md
+      - "Distinction Exercise: Putting Order Into Chaos": acw31.md
+      - "Loss Of Game, Loss Of Opponents": acw32.md
+      - "The Intangibles Of Processing": acw36.md
+      - "What Is Sovereignty?": acw37.md
+      - "Mock-up and Unmock": acw40.md
+      - "Present Time Confront": acw41.md
+      - "Present Time Confront 2": acw42.md
+      - "The History Of Handling By-passed Charge Technology": acw43.md
+      - "Life, Sessions And Energy": acw46.md
+      - "Identities": acw50.md
+      - "Correction Lists": acw51.md
+      - "'The Tech Was Just Not Working'": acw52.md
+      - "Cultural De-Oppression": acw53.md
+      - "Royal Scotsman 1967": acw54.md
+      - "Listing and Nulling": acw55.md
+      - "Out Lists And Wrong Items": acw56.md
+      - "Eductive Comm Cycle:": acw57.md
+      - "The 'itsa maker line'": acw58.md
+      - "Disagreement and Separation": acw59.md
+      - "What Is It?": acw60.md
+      - "The Being Is Not The Condition": acw61.md
+      - "Co-existence Of Static": acw62.md
+      - "Exercising Your Spiritual Powers": acw63.md
+      - "Pol Pot Is Dead": acw64.md
+      - "Clay Table Healing": acw65.md
+      - "The Destructive Dance Of The Dots": acw66.md
+      - "Presence": acw67.md
+      - "End Of Case": acw68.md
+      - "Case Handling Difficulties": acw69.md
+      - "Parts of Existence": acw70.md
+      - "Serotonin — The Mood Molecule": acw71.md
+      - "Drugs": acw72.md
+      - "Drug Recovery 1": acw80.md
+      - "Drug Recovery 2": acw81.md
+      - "Drug Recovery 3": acw82.md
+      - "Drug Recovery 4": acw83.md
+      - "Drug Recovery 5": acw84.md
+      - "Drug Recovery 6": acw85.md
+      - "Drug Recovery 7": acw86.md
+      - "Cause Over Money": acw73.md
+      - "GPM’s": acw74.md
+      - "GPM’s 2": acw75.md
+      - "Overt Acts": acw77.md
+      - "Games Matrix: Goals, Identities, Problems, and Masses": acw78.md
+      - "OSA Immobilized": acw6.md
+      - "Cult Handling": acw79.md
+      - "Order Of Identities": acw87.md
+      - "Abuse Recovery": acw88.md
+      - "Power Splits": acw89.md
+      - "Spiritual Energy Is Postulated Life Force Particles": acw90.md
+      - "Meter Reads": acw91.md
+      - "Service Facsimile": acw93.md
+      - "Restore Sovereignty": acw94.md
+      - "What Is Charge And What Is By-passed Charge?": acw95.md
+      - "The Two Major Causes Of Unwanted Charge And Pain": acw96.md
+      - "Observing The Flows Of Energy": acw97.md
+      - "Going Exterior": acw98.md
+      - "Acting in the Certain Way": acw99.md
+      - "Types Of Duplication": acw100.md
+      - "Two Types Of Trance States": acw101.md
+      - "Collapsed Universes And Black Core Incidents": acw102.md
+      - "Black Core Artificial “me’s”": acw103.md
+      - "Ascension Experiences": ascension.md
+      - "Cores": cores.md
+      - "Balls": balls.md
+      - "Bognition": bognition.md
+      - "Boredom": boredom.md
+      - "BPC List": bpc.md
+      - "BPC Assessment": bpc2.md
+      - "BPC Assessment 2": bpc3.md
+      - "Celebration Of Wins": celebration.md
+      - "Clean Slate Handling Learning Drill": cs1.md
+      - "Clean Slate Process II": cs2.md
+      - "Clean Slate Technical Phenomena": cs3.md
+      - "De-Access Questions": deaccess.md
+      - "Why Disguise A God?": disguise.md
+      - "Be Closer To God": god.md
+      - "Match": match.md
+      - "Obsidian": obsidian.md
+      - "Prosperity": prosperity.md
+      - "Psychic War": psychic_war.md
+      - "Raymond": raymond.md
+      - "Realign": realign.md
+      - "Shock": shock.md
+      - "Tacit": tacit.md
+      - "Who": who.md
+      - "Wrong": wrong.md
+#    - Index: index.md
