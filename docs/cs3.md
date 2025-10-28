@@ -1,5 +1,3 @@
-## CLEAN SLATE TECHNICAL PHENOMENA
-
 The action of Clean Slating using negative process style handling will
 produce enormous case gain and handle huge upsets and problems.
 

@@ -1,4 +1,4 @@
-## ROUGH DRAFT:
+> ROUGH DRAFT:
 
 ## PUTTING ORDER INTO CHAOS
 
@@ -54,7 +54,7 @@ By-Passed Charge accumulated from past traumatic training courses.
 
 _Definition:_
 
-## DISTINCTION:
+> DISTINCTION:
 
 1. n. The action of distinguishing; discrimination;
 differentiation.

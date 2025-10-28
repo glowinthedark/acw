@@ -1,5 +1,3 @@
-## WHY DISGUISE A GOD?
-
 What a strange thing to do, after all if one is a god what good is
 a disguise especially if you are associating and interacting with other
 gods?
@@ -477,7 +475,7 @@ achieving major results and accomplishments in life.
 Contact us at 972-404-8125 for a free consultation to help you find
 what would be the best actions for you.
 
-## ALAN C.  WALTER
+ALAN C.  WALTER
 
 5 August 1995
 Revised 17 November 1995

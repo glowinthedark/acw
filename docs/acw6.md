@@ -37,7 +37,7 @@ they saw and rationalized along the way.
 
 This is TOO MUCH TRUTH for them to confront. 
 
-## THUS THEY HAVE BECOME TOTALLY IMMOBILIZED.
+_THUS THEY HAVE BECOME TOTALLY IMMOBILIZED._
 
 They cannot co-audit because of the PAIN and FURY that will turn on. Well
 tough shit if they want out of the PAIN and FURY and wish to ascend again to

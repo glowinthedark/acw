@@ -193,7 +193,7 @@ ___________________________________________________________
 
 Study Series 3
 
-## YOU CAN GET STARTED IMMEDIATELY!
+_YOU CAN GET STARTED IMMEDIATELY!_
 
 As you use the CLEAN SLATE procedures which are outlined here, you will
 realize just how beneficial — and how POWERFUL — this technology is.

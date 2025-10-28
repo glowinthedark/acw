@@ -19,9 +19,9 @@ These are also great childrens games to play.
 
 Alan
 
-## MORE OF — LESS OF — NOTHING OF
+> MORE OF — LESS OF — NOTHING OF
 
-EXERCISE 1
+### EXERCISE 1
 
 Communication Recognition
 
@@ -101,9 +101,9 @@ This exercise is continued until the Student has certainty in spotting
 correctly the type of communication being delivered.  Student and Coach
 then switch roles and repeat this exercise.
 
-## MORE OF — LESS OF — NOTHING OF
+> MORE OF — LESS OF — NOTHING OF
 
-EXERCISE 2 - Presenting Bad News
+### EXERCISE 2 - Presenting Bad News
 
 The objective of this exercise is to teach the Student how to present
 bad news so that it can be easily accepted and made less of by the
@@ -173,9 +173,9 @@ This is done over and over until Student feels very comfortable with
 presenting bad news and is consistently getting the Coach to make less
 of the bad news.
 
-## MORE OF — LESS OF — NOTHING OF
+> MORE OF — LESS OF — NOTHING OF
 
-EXERCISE 3 - Handling "Nothing Of"
+### EXERCISE 3 - Handling "Nothing Of"
 
 The objective of this exercise is to teach the Student to be able to
 handle someone attempting to make nothing of him or his product by
@@ -244,9 +244,9 @@ This is done until the Student can comfortably confront all those
 things about himself that he wished were NOTHING and can consistently
 unfix the Coach’s attention from what he was making nothing of.
 
-## MORE OF — LESS OF — NOTHING OF
+> MORE OF — LESS OF — NOTHING OF
 
-EXERCISE 4
+### EXERCISE 4
 
 Spotting and Handling Moods
 
@@ -350,9 +350,9 @@ match the mood levels the Coach dramatizes and comfortably and easily
 move the Coach up and down the mood scale.  Student and Coach then
 switch roles and repeat Section 2B of this exercise.
 
-## MORE OF — LESS OF — NOTHING OF
+> MORE OF — LESS OF — NOTHING OF
 
-EXERCISE 5
+### EXERCISE 5
 
 Turning Rejection into Acceptance.
 
@@ -418,17 +418,15 @@ as presented.
 
 Alan C. Walter
 
-Revised by
+Revised by Eric Wolery for ALAN C. WALTER
 
-Eric Wolery
-
-for 
-
-ALAN C. WALTER
 25 January 1991,
+
 Revised 14 February 1996
 
 Copyright © 1991, 1996,
+
 Alan C. Walter
+
 ALL RIGHTS RESERVED
 

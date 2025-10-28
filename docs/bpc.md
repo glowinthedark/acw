@@ -1435,7 +1435,7 @@ over their minds and bodies by destroying their ability to envision.
 Worse, when they begin to envision, these evil programs are triggered
 automatically, keeping the Client constantly over-accessed.
 
-## ALAN C.  WALTER
+ALAN C.  WALTER
 
 21 March 1994
 Revised 15 February 1996

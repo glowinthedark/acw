@@ -67,7 +67,7 @@ existence.
 
 ---
 
-## DEFINITIONS:
+> DEFINITIONS:
 
 TRUTH:  n.  The exact and precise correctness of spirit, knowledge,
 game, perception, intention, vision, plan, who, what, where, when,
@@ -145,7 +145,7 @@ these are the outcome of Red Zone behavior and the absence of Truth.
 To handle, you just introduce and maintain more and more truths. This
 is done by training and specialized one-on-one consulting.
 
-## DEFINITIONS:
+> DEFINITIONS:
 
 UNTRUTH (LYING): n. The unknowingness of, or false and incorrect
 spirit, knowledge, game, perception, vision, plan, who, what, where,

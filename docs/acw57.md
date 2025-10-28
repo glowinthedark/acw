@@ -5,7 +5,7 @@ What is an 'eductive comm cycle?'
 
 Can't we find a better word than this for it?
 
-## ACW:
+_ACW:_
 
 The 'eductive comm cycle' is:
 

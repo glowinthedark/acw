@@ -152,7 +152,7 @@ Cause Indicators.
 
 Then repeat Step #14. 
 
-## NOTE:
+> NOTE:
 
 1 — If the shock, mass or force is connected to some disreputable
 incident and does not easily resolve, you can check: 

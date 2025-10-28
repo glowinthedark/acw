@@ -123,7 +123,7 @@ forces the Being to become defensive which accesses them into the
 distrustful, distant, cold, angryness of chronic RIGHTNESS, not the
 warm, trusting, close, friendliness and purity of TRUTH.
 
-## ALAN C.  WALTER
+ALAN C.  WALTER
 
 8 March 1996 Copyright  1996 Alan C.  Walter ALL RIGHTS RESERVED
 

@@ -1,5 +1,3 @@
-## DE-ACCESS QUESTIONS
-
 _Definitions:_
 
 ACCESS:  1.  To gain or have an approach or path to; especially to

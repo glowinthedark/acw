@@ -1,5 +1,3 @@
-## THE HISTORY OF HANDLING BY-PASSED CHARGE TECHNOLOGY
-
 Handling By-Passed Charge has developed from the early days into a very
 rigid structure. But it has a long history of development.
 

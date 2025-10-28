@@ -103,7 +103,7 @@ respect and sovereignty back to them.
 
 What I was observing was: A MASSIVE TACIT SABOTAGE OF THE TECHNOLOGY!
 
-## MORE TO COME.
+_MORE TO COME._
 
 Alan
 

@@ -110,7 +110,7 @@ This is the deliberate, active, constant dumbing down of every
 spiritual being.  Nothing could be dumber, than to not be aware of
 your spiritual potentiality and spiritual powers.
 
-## WHAT SET THIS WEAPON INTO PLAY WAS THE CONTINUOUS USE OF DESTRUCTIVE TELEPATHICALLY PROJECTED HOLOGRAPHIC IMAGERY BY EVIL BEINGS THAT CONSTANTLY CREATED OTHER SPIRITUAL BEINGS AS SOMETHING LESS THAN THEY TRULY ARE.
+> WHAT SET THIS WEAPON INTO PLAY WAS THE CONTINUOUS USE OF DESTRUCTIVE TELEPATHICALLY PROJECTED HOLOGRAPHIC IMAGERY BY EVIL BEINGS THAT CONSTANTLY CREATED OTHER SPIRITUAL BEINGS AS SOMETHING LESS THAN THEY TRULY ARE.
 
 By using ignorance encased in psychic pain to destroy the
 Spiritual Beings’ ability to know and holographically permeate the
@@ -325,9 +325,11 @@ YOU have become a weapon of destruction to yourself and others.
 
 ---
 
-##### THESE FOUR NEGATIVE PROCESS ACTIONS ARE THE FOUNDATION OF THE SPIRITUAL BEING'S MOST BASIC PSYCHIC POWERS VIOLATIONS.
+> THESE FOUR NEGATIVE PROCESS ACTIONS ARE THE FOUNDATION OF THE SPIRITUAL BEING'S MOST BASIC PSYCHIC POWERS VIOLATIONS.
 
-##### THIS IS THE BASIC SOURCE OF ALL SPIRITUAL DEGRADATION OF OURSELVES, OUR TEAMMATES, OUR FELLOW SPIRITUAL ASSOCIATES, AND THE PLAYING OF DEGRADED GAMES, INCLUDING WHAT LIES BEHIND ALL OF OUR NON OPTIMUM SITUATIONS, PROBLEMS AND IDENTITIES.
+---
+
+> THIS IS THE BASIC SOURCE OF ALL SPIRITUAL DEGRADATION OF OURSELVES, OUR TEAMMATES, OUR FELLOW SPIRITUAL ASSOCIATES, AND THE PLAYING OF DEGRADED GAMES, INCLUDING WHAT LIES BEHIND ALL OF OUR NON OPTIMUM SITUATIONS, PROBLEMS AND IDENTITIES.
 
 ### WHY ARE WE DOING THIS TO OURSELVES?
 
@@ -355,7 +357,7 @@ spiritual power to telepathically project holographic imagery, and who
 then were capable of restoring the teams of Gods spiritual powers to
 telepathically project holographic imagery.
 
-## ANY FORM OF MISUSE, WHETHER REAL OR IMAGINED, OF THESE PSYCHIC ABILITIES, WILL BRING ABOUT AN IMMEDIATE PSYCHIC ATTACK.
+> ANY FORM OF MISUSE, WHETHER REAL OR IMAGINED, OF THESE PSYCHIC ABILITIES, WILL BRING ABOUT AN IMMEDIATE PSYCHIC ATTACK.
 
 Should any being misuse its psychic powers, a retribution will be
 enacted against any form of awareness, literacy, knowledge, masterful
@@ -446,7 +448,7 @@ identities of being like, doing like and having like "the ultimate
 betrayers" or their created "victims." The Gods have become that which
 they hate the most.
 
-##### MOST FORMER GODLIKE BEINGS ARE NOW ALMOST COMPLETELY SUBMERGED IN IGNORANCE THAT IS ENCASED IN SO MUCH PAIN AND THE PAIN HURTS SO BADLY THAT WHEN THE OPPORTUNITY TO STRIKE A BLOW FOR THEIR SPIRITUAL FREEDOM PRESENTS ITSELF, IT AUTOMATICALLY TRIGGERS THE IGNORANCE, PAIN AND HURT AND THEY FEEL THEY DO NOT KNOW WHAT CAN BE DONE, OR NOTHING CAN BE DONE, OR THEY MUST AVOID THIS AREA SO THEY INVENT OR CREATE AN UPSET OR PROBLEM ABOUT AN IMAGINED FALSE THREATENING SITUATION AND USE THAT AS A JUSTIFICATION TO LEAVE, RUN AWAY OR HIDE.
+> MOST FORMER GODLIKE BEINGS ARE NOW ALMOST COMPLETELY SUBMERGED IN IGNORANCE THAT IS ENCASED IN SO MUCH PAIN AND THE PAIN HURTS SO BADLY THAT WHEN THE OPPORTUNITY TO STRIKE A BLOW FOR THEIR SPIRITUAL FREEDOM PRESENTS ITSELF, IT AUTOMATICALLY TRIGGERS THE IGNORANCE, PAIN AND HURT AND THEY FEEL THEY DO NOT KNOW WHAT CAN BE DONE, OR NOTHING CAN BE DONE, OR THEY MUST AVOID THIS AREA SO THEY INVENT OR CREATE AN UPSET OR PROBLEM ABOUT AN IMAGINED FALSE THREATENING SITUATION AND USE THAT AS A JUSTIFICATION TO LEAVE, RUN AWAY OR HIDE.
 
 The moment of avoidance instantly creates them as one of "THE
 COWARDS OF THE UNIVERSE," for they have abandoned their
@@ -504,7 +506,7 @@ those who love and trust you, as did Adolph Hitler, Joseph Stalin, et
 al who betrayed those who trusted them to be and do what they
 promised.
 
-##### THE MASSIVE UNIVERSE WIDE IGNORANCE CREATION CONSPIRACY
+> THE MASSIVE UNIVERSE WIDE IGNORANCE CREATION CONSPIRACY
 
 There is a massive universe wide conspiracy to prevent the use of
 psychic powers by blocking them with pain, with the total intention of
@@ -609,7 +611,7 @@ into "subduers," or "betrayers," or "victims."
 
 Wars are a lose - lose activity.  Everybody loses.
 
-##### THE WAR HAS ENDED!!
+> THE WAR HAS ENDED!!
 
 On the 5th of March, 1994 a momentous event took place.
 
@@ -647,7 +649,7 @@ and the lectures on the Prime Source Axiom "Codes" course.
 
 ---
 
-## WHAT DOES THIS END OF THE PSYCHIC WAR MEAN?
+> WHAT DOES THIS END OF THE PSYCHIC WAR MEAN?
 
 It means that those who are willing to use their psychic powers
 to do the greatest good will be allowed to achieve their highest
@@ -688,7 +690,7 @@ spread throughout the universes.
 
 ---
 
-## YOU ARE THE VITAL KEY TO THE GOLDEN AGE
+> YOU ARE THE VITAL KEY TO THE GOLDEN AGE
 
 For these events and transformations to occur and the Golden Age
 to come into being depends entirely on YOU.

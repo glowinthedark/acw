@@ -1,5 +1,3 @@
-## POL POT IS DEAD
-
 Pol Pot was born into a farming family in Kompong Thom province,
 80 miles north of Phnom Penh.  Personal details of his life were
 always hard to verify, and only in his 1997 interview did he make

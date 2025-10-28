@@ -17,7 +17,7 @@ related materials.  Then the "On a Person," "On People," or "On Places
 or Things" steps should be run on all people, places or things related
 to the subject, or connected to studying the subject.
 
-## STEPS
+> _STEPS_
 
 On You:
 

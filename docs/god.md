@@ -1,5 +1,3 @@
-## BE CLOSER TO GOD
-
 "So God created man in his own image."
 
 Genesis 1:27
