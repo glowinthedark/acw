@@ -3,8 +3,7 @@ Hi Homer,
 
 Here is the Cult handling bulletin.
 
-It will give you an idea of how to separate self from the Cult programs and
-glue.
+It will give you an idea of how to separate self from the Cult programs and glue.
 
 Any buttons can be added in during the rundown.
 
@@ -32,9 +31,7 @@ Step One:  LOCATION OF ALL CULTS THE CLIENT HAS BEEN PART OF.
 interest in. 
 
    (Types of Cults:  Religious, drug, alcohol, academic, family, youth
-groups, schools, 
-
-clubs, gangs, societies, hobbies, nationality, race, color, sex,
+groups, schools, clubs, gangs, societies, hobbies, nationality, race, color, sex,
 etc.) 
 
 Step Two:  CREATING SEPARATION OF CLIENT FROM CULTS. 
@@ -66,8 +63,7 @@ Step Three:PROCESSING THE CULT.
 
 6. Get who(s). 
 
-7. Find each who's intention.  Ask:  What was the intention of  (who
-)? 
+7. Find each who's intention.  Ask:  What was the intention of  (who)? 
 
 8. Ask:  Connected to (intention) was there a vision? 
 
@@ -106,41 +102,41 @@ to do?
 
 19.Add and run the following areas to commands 17 - 18: 
 
-to earn? 
+- to earn? 
 
-to lie about? 
+- to lie about? 
 
-to tell the truth about? 
+- to tell the truth about? 
 
-to know? 
+- to know? 
 
-to understand? 
+- to understand? 
 
-to be present with? 
+- to be present with? 
 
-to not be present with? 
+- to not be present with? 
 
-to position yourself with? 
+- to position yourself with? 
 
-to position yourself against? 
+- to position yourself against? 
 
-to make decisions about? 
+- to make decisions about? 
 
-to spend time on? 
+- to spend time on? 
 
-to have interest in? 
+- to have interest in? 
 
-to focus attention on? 
+- to focus attention on? 
 
-to not focus attention on? 
+- to not focus attention on? 
 
-to tacitly agree with? 
+- to tacitly agree with? 
 
-to tacitly disagree against? 
+- to tacitly disagree against? 
 
-to oppose? 
+- to oppose? 
 
-to not oppose?
+- to not oppose?
 
 ---
 

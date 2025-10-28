@@ -21,6 +21,7 @@ The current flowing from one electrode to the other is setting up an
 ARTIFICIAL FLOW OF ENERGY THAT CAUSES A MINUSCULE WALL OF CROSS ENERGY ACROSS THE CLIENT TO PROCESSOR - OR FROM CLIENT TO THE KNOWINGLY FOCUSED OR STUCK POINT OF ATTENTION.
 
 The ENERGY FLOW looks something like this:
+```
 OOOOOOOOOOOOOOOOOOOO
 O~~~~~Processor Presence~~~~~~O
 OOOOOOOOOOOOOOOOOOOO
@@ -42,6 +43,7 @@ O>>>>>>>>intentions<<<<<<<<<O
 OOOOOOOOOOOOOOOOOOO
 O~~~~~~Clients Presence~~~~~~O
 OOOOOOOOOOOOOOOOOOO
+```
 
 The flow of energy between the client and processor is going through an
 artificial barrier created by the current or energy flowing through the
@@ -56,6 +58,7 @@ METER FLOW LINE.
 In the presence of an effective eductive comm. and F/N, and Green Zone
 Truth Phenomena:
 
+```
 ## OOOOOOOOOOOOOOOOOOOO
 O~~~~~~Processor Presence~~~~~O
 OOOOOOOOOOOOOOOOOOOO
@@ -76,7 +79,7 @@ O>>>>> Wants & Intentions.<<<<<O
 OOOOOOOOOOOOOOOOOOOO
 O~~~~~~Clients Presence~~~~~~~O
 OOOOOOOOOOOOOOOOOOOO
-
+```
 Persistent Floating Needle with Cause Indicators, with nothing in
 present time impeding the clients attainments of wants and intentions.
 
@@ -107,14 +110,14 @@ low responsibility and low integrity processor.
 ## METER DEPENDENCY
 
 Possible the worse case scenario a processor can run into is the client
-who is so unsure of themselves that they continuously ask: ï¿½What did the
-meter say?ï¿½
+who is so unsure of themselves that they continuously ask: "What did the
+meter say?"
 
 This is a sign this poor client has been processed by a processor that
-used the meter to invalidate the clients data or originationï¿½s.
+used the meter to invalidate the clients data or origination.
 
-Other clients react negatively, when the processor says: ï¿½ Lets do a
-review of this area?ï¿½ The client immediately plunges down scale. This
+Other clients react negatively, when the processor says: "Lets do a
+review of this area." The client immediately plunges down scale. This
 indicates the constant past invalidation and false indications on the
 meter.
 

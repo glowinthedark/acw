@@ -21,30 +21,19 @@ Discovering and comprehending the truth causes trapped life-force
 particles to be released from the lies and causes the following
 phenomena to occur:
 
-1.  A feeling of relief, lightness, and freedom and a huge upsurge in
-
-mood level.
+1.  A feeling of relief, lightness, and freedom and a huge upsurge in mood level.
 
 2.  Laughter, cheerfulness, and sense of humor.
 
-3.  Experiencing bigness, expansion, and cause over the area being
-
-handled.
+3.  Experiencing bigness, expansion, and cause over the area being handled.
 
 4.  New awarenesses.  Being more alive.
 
-5.  A complete willingness to own, be responsible for, and take
+5.  A complete willingness to own, be responsible for, and take control of the area being   handled.
 
-control of the area being   handled.
-
-6.  High friendliness, closeness, even love toward the correct and
-
-precise whos,  whats, wheres,  whens,  whys,  hows, importances,
-
+6.  High friendliness, closeness, even love toward the correct and precise whos,  whats, wheres,  whens,  whys,  hows, importances,
 values, moods,  responsibilities,  motions, actions, and
-
 accurately predicted consequences,  outcomes,  and accomplishments
-
 in the area being handled.
 
 7.  Major cognitions (Aha's).

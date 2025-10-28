@@ -600,7 +600,7 @@ achieving "all the way out."
 How well your life will go will depend on your ability to
 continue to do these processes and procedures.  
 
-## ALAN C.  WALTER
+ALAN C.  WALTER
 
 15 December 1995
 Revised 28 December 1995

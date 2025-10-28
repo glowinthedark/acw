@@ -1,5 +1,4 @@
-
-The History By-Passed Charge Handling A New Level of Technology
+# The History By-Passed Charge Handling A New Level of Technology
 (part 2)
 
 The January to March 1963 period ushered in a new level of

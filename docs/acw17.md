@@ -1,5 +1,4 @@
-
-The way through is the way out?
+## The way through is the way out?
 
 This is a basic precept that works for some, yet doesn't work for
 others.

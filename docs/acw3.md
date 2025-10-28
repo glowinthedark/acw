@@ -32,8 +32,8 @@ c.	When was it?
 
 d.	Describe the collapsed universe.
 
-e.	Get all the unpleasant sensations. One at a time, run f, then g. to a win
-or Cause Indicators, 	then repeat steps e, f, g over and over until the
+e.	Get all the unpleasant sensations. One at a time, run **f**, then **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the
 collapsed universe is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -50,7 +50,7 @@ From where could a spiritual being create a whole universe?
 
 h.	Have you ever collasped another’s universe?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 2.a.	Is there a counter-force?					-----   -----   -----   -----   -----
 
@@ -60,8 +60,8 @@ c.	When was it?
 
 d.	Describe the counter-force.
 
-e.	Get all the unpleasant sensations. One at a time, run f, then g to a win
-or Cause Indicators, 	then repeat steps e, f, g over and over until the
+e.	Get all the unpleasant sensations. One at a time, run **f**, then **g** to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the
 counter-force is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -78,7 +78,7 @@ From where could a spiritual being create a pro-active force?
 
 h.	Have you ever caused another a counter-force?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 3.a.	Is there a disruptive image?					-----   -----   -----   -----   -----
 
@@ -88,8 +88,8 @@ c.	When was it?
 
 d.	Describe the disruptive image.
 
-e.	Get all the unpleasant sensations. One at a time, run f. and g. to a win
-or Cause Indicators, 	then repeat steps e, f, g over and over until the
+e.	Get all the unpleasant sensations. One at a time, run **f**. and **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the
 disruptive image is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -106,7 +106,7 @@ From where could a spiritual being create a complete image?
 
 h.	Have you ever caused another a disruptive image?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 4.a.	Is there a destroyed creation?				-----   -----   -----   -----   -----
 
@@ -116,8 +116,8 @@ c.	When was it?
 
 d.	Describe the destroyed creation.
 
-e.	Get all the unpleasant sensations. One at a time, run f, then g. to a win
-or Cause Indicators, 	then repeat steps e, f, g over and over until the
+e.	Get all the unpleasant sensations. One at a time, run **f**, then **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the
 destroyed creation is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -134,7 +134,7 @@ From where could a spiritual being create a whole creation?
 
 h.	Have you destroyed another’s creation?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 5.a.	Is there a wrong answer?					-----   -----   -----   -----   -----
 
@@ -144,8 +144,8 @@ c.	When was it?
 
 d.	Describe the wrong answer.
 
-e.	Get all the unpleasant sensations. One at a time, run f, then g. to a win
-or Cause Indicators, 	then repeat steps e, f, g over and over until the
+e.	Get all the unpleasant sensations. One at a time, run **f**, then **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the
 wrong answer is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -161,7 +161,7 @@ From where could a spiritual being create a true answer?
 
 h.	Have you ever caused another a wrong answer?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 6.a.	Is there an abrasive friction?				-----   -----   -----   -----   -----
 
@@ -171,8 +171,8 @@ c.	When was it?
 
 d.	Describe the abrasive friction.
 
-e.	Get all the unpleasant sensations. One at a time, run f, then g. to a win
-or Cause Indicators, 	then repeat steps e, f, g over and over until the
+e.	Get all the unpleasant sensations. One at a time, run **f**, then **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the
 abrasive friction is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -189,7 +189,7 @@ From where could a spiritual being create a pleasant friction?
 
 h.	Have you ever caused another an abrasive friction?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 7.a.	Is there an impact?						-----   -----   -----   -----   -----
 
@@ -199,8 +199,8 @@ c.	When was it?
 
 d.	Describe the exact impact.
 
-e.	Get all the unpleasant sensations. One at a time, run f, then g. to a win
-or Cause Indicators, 	then repeat steps e, f, g over and over until the
+e.	Get all the unpleasant sensations. One at a time, run **f**, then **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the
 impact is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -216,7 +216,7 @@ From where could a spiritual being create a caress?
 
 h.	Have you ever caused another an impact?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 8.a.	Is there a vacuum?						-----   -----   -----   -----   -----
 
@@ -226,8 +226,8 @@ c.	When was it?
 
 d.	Describe the vacuum.
 
-e.	Get all the unpleasant sensations. One at a time, run f, then g. to a win
-or Cause Indicators, 	then repeat steps e, f, g over and over until the
+e.	Get all the unpleasant sensations. One at a time, run **f**, then **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the
 vacuum is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -243,7 +243,7 @@ From where could a spiritual being create a fulfillment?
 
 h.	Have you ever caused another a vacuum?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 9.a.	Is there an area of heat?					-----   -----   -----   -----   -----
 
@@ -253,8 +253,8 @@ c.	When was it?
 
 d.	Describe the area of heat.
 
-e.	Get all the unpleasant sensations. One at a time, run f, then g. to a win
-or Cause Indicators, 	then repeat steps e, f, g over and over until the area
+e.	Get all the unpleasant sensations. One at a time, run **f**, then **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the area
 of heat is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -270,7 +270,7 @@ From where could a spiritual being create warmth?
 
 h.	Have you ever caused another an area of heat?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 10.a.	Is there an area of cold?					-----   -----   -----   -----   -----
 
@@ -280,8 +280,8 @@ c.	When was it?
 
 d.	Describe the area of cold.
 
-e.	Get all the unpleasant sensations. One at a time, run f, then g. to a win
-or Cause Indicators, 	then repeat steps e, f, g over and over until the area
+e.	Get all the unpleasant sensations. One at a time, run **f**, then **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the area
 of cold is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -297,7 +297,7 @@ From where could a spiritual being create warmth?
 
 h.	Have you ever caused another an area of coldness?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 11.a.	Is there a single-poled item?				-----   -----   -----   -----   -----
 
@@ -307,8 +307,8 @@ c.	When was it?
 
 d.	Describe the single-poled item.
 
-e.	Get all the unpleasant sensations. One at a time, run f, then g to a win
-or Cause Indicators, 	then repeat steps e, f, g over and over until the
+e.	Get all the unpleasant sensations. One at a time, run **f**, then **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the
 single-poled item is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -325,7 +325,7 @@ From where could a spiritual being create a two-poled item?
 
 h.	Have you ever caused another a single-poled item?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 12.a.	Is there an magnetism?				-----   -----   -----   -----   -----
 
@@ -335,8 +335,8 @@ c.	When was it?
 
 d.	Describe the area of magnetism.
 
-e.	Get all the unpleasant sensations. One at a time, run f, then g. to a win
-or Cause Indicators, 	then repeat steps e, f, g over and over until the
+e.	Get all the unpleasant sensations. One at a time, run **f**, then **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the
 magnetism is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -345,7 +345,7 @@ g.	From where could a spiritual being create (named unpleasant sensation)?
 
 h.	Have you ever created an area of magnetism for another?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 13.a.	Is there a compulsive attraction?				-----   -----   -----   -----   -----
 
@@ -355,8 +355,8 @@ c.	When was it?
 
 d.	Describe the compulsive attraction.
 
-e.	Get all the unpleasant sensations. One at a time, run f, then g. to a win
-or Cause Indicators, 	then repeat steps e, f, g over and over until the
+e.	Get all the unpleasant sensations. One at a time, run **f**, then **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the
 compulsive attraction is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -373,7 +373,7 @@ From where could a spiritual being create an attraction?
 
 h.	Have you ever caused another a compulsive attraction?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 14.a.	Is there a compulsive repeller?				-----   -----   -----   -----   -----
 
@@ -383,8 +383,8 @@ c.	When was it?
 
 d.	Describe the compulsive repeller.
 
-e.	Get all the unpleasant sensations. One at a time, run f, then g. to a win
-or Cause Indicators, 	then repeat steps e, f, g over and over until the
+e.	Get all the unpleasant sensations. One at a time, run **f**, then **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the
 compulsive repeller is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -401,7 +401,7 @@ From where could a spiritual being create a repeller?
 
 h.	Have you ever caused another a compulsive repeller?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 15.a.	Is there an area of trapped life-force particles?		-----   -----
 -----   -----   -----
@@ -412,8 +412,8 @@ c.	When was it?
 
 d.	Describe the area of trapped life-force particles.
 
-e.	Get all the unpleasant sensations. One at a time, run f, then g. to a win
-or Cause Indicators, 	then repeat steps e, f, g over and over until the area
+e.	Get all the unpleasant sensations. One at a time, run **f**, then **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the area
 of trapped life-force particles is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -430,7 +430,7 @@ From where could a spiritual being create freed life-force particles?
 
 h.	Have you ever trapped another’s life-force particles?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 16.a.	Is there an enforced sensation?				-----   -----   -----   -----   -----
 
@@ -440,8 +440,8 @@ c.	When was it?
 
 d.	Describe the enforced sensation.
 
-e.	Get all the unpleasant sensations. One at a time, run f, then g. to a win
-or Cause Indicators, 	then repeat steps e, f, g over and over until the
+e.	Get all the unpleasant sensations. One at a time, run **f**, then **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the
 enforced sensation is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -458,7 +458,7 @@ From where could a spiritual being create a pleasant sensation?
 
 h.	Have you ever caused another an enforced sensation?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 17.a.	Is there an enforced feeling?				-----   -----   -----   -----   -----
 
@@ -468,8 +468,8 @@ c.	When was it?
 
 d.	Describe the enforced feeling.
 
-e.	Get all the unpleasant sensations. One at a time, run f, then g. to a win
-or Cause Indicators, 	then repeat steps e, f, g over and over until the
+e.	Get all the unpleasant sensations. One at a time, run **f**, then **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the
 enforced feeling is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -486,7 +486,7 @@ From where could a spiritual being create a pleasant feeling?
 
 h.	Have you ever caused another an enforced feeling?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 18.a	Is there too much randomness?				-----   -----   -----   -----   -----
 
@@ -496,8 +496,8 @@ c.	When was it?
 
 d.	Describe the too much randomness.
 
-e.	Get all the unpleasant sensations. One at a time, run f, then g. to a win
-or Cause Indicators, 	then repeat steps e, f, g over and over until the too
+e.	Get all the unpleasant sensations. One at a time, run **f**, then **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the too
 much randomness is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -514,7 +514,7 @@ From where could a spiritual being create correct randomness?
 
 h.	Have you ever caused another too much randomness?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 19.a	Is there too little randomness?				-----   -----   -----   -----   -----
 
@@ -524,8 +524,8 @@ c.	When was it?
 
 d.	Describe the too little randomness.
 
-e.	Get all the unpleasant sensations. One at a time, run f, then g. to a win
-or Cause Indicators, 	then repeat steps e, f, g over and over until the too
+e.	Get all the unpleasant sensations. One at a time, run **f**, then **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the too
 little randomness is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -542,7 +542,7 @@ From where could a spiritual being create correct randomness?
 
 h.	Have you ever caused another too little randomness?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 20.a.	Is there something you don’t want to know?		-----   -----   -----
 -----   -----
@@ -553,8 +553,8 @@ c.	When was it?
 
 d.	Describe the something you don’t want to know.
 
-e.	Get all the unpleasant sensations. One at a time, run f, then g. to a win
-or Cause Indicators, 	then repeat steps e, f, g over and over until the
+e.	Get all the unpleasant sensations. One at a time, run **f**, then **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the
 something the client doesn’t want to know is 	handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -571,7 +571,7 @@ From where could a spiritual being create want to know?
 
 h.	Have you caused another something they don’t want to know?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 21.a.	Is there something you don’t want to experience?		-----   -----
 -----   -----   -----
@@ -582,8 +582,8 @@ c.	When was it?
 
 d.	Describe the something you don’t want to experience.
 
-e.	Get all the unpleasant sensations.  One at a time, run f, then g. to a
-win or Cause Indicators, 	then repeat steps e, f, g over and over until the
+e.	Get all the unpleasant sensations.  One at a time, run **f**, then **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the
 something the client doesn’t want to 	experience is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -600,7 +600,7 @@ From where could a spiritual being create want to experience?
 
 h.	Have you ever caused another something they don’t want to experience?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 22.a.	Is there a kept?						-----   -----   -----   -----   -----
 
@@ -610,8 +610,8 @@ c.	When was it?
 
 d.	Describe the kept.
 
-e.	Get all the unpleasant sensations. One at a time, run f, then g. to a win
-or Cause Indicators, 	then repeat steps e, f, g over and over until the kept
+e.	Get all the unpleasant sensations. One at a time, run **f**, then **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the kept
 is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -627,7 +627,7 @@ From where could a spiritual being create an openness?
 
 h.	Have you ever caused another a kept?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 23.a.	Is there a harmful act?					-----   -----   -----   -----   -----
 
@@ -637,8 +637,8 @@ c.	When was it?
 
 d.	Describe the harmful act.
 
-e.	Get all the unpleasant sensations. One at a time, run f, then g. to a win
-or Cause Indicators, 	then repeat steps e, f, g over and over until the
+e.	Get all the unpleasant sensations. One at a time, run **f**, then **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the
 harmful act is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?
@@ -654,7 +654,7 @@ From where could a spiritual being create a helpful act?
 
 h.	Have you ever caused another to commit a harmful act?
 
-Repeat b. to g.
+Repeat **b**. to **g**.
 
 24.a.	Is there a problem?						-----   -----   -----   -----   -----
 
@@ -664,8 +664,8 @@ c.	When was it?
 
 d.	Describe the problem.
 
-e.	Get all the unpleasant sensations.  One at a time, run f, then g. to a
-win or Cause Indicators, 	then repeat steps e, f, g over and over until the
+e.	Get all the unpleasant sensations.  One at a time, run **f**, then **g**. to a win
+or Cause Indicators, 	then repeat steps **e**, **f**, **g** over and over until the
 problem is handled:
 
 f.	From where could a spiritual being experience (named unpleasant sensation)?

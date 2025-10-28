@@ -1,5 +1,4 @@
-
-The history of LOCATE and INDICATE technology
+# The history of LOCATE and INDICATE technology
 
 The discovery and application of the locate and indicate technology is
 an off-shoot of the original Goals - Problems - Mass and the finding of
@@ -71,7 +70,7 @@ was a major victory, let alone do a positive action.
 To make matters worse LRH had a microphone and the processor wore an
 earplug so that he could receive instruction as the session went along.
 Now if you have any idea what it is like to be processing someone who is
-in terror, not going into session and the have Ron’s voice explode
+in terror, not going into session and have Ron’s voice explode
 inside your head, you now know why you need to do plenty of TR0.
 
 ## THE TV SESSION

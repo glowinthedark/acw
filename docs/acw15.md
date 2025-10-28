@@ -42,22 +42,39 @@ Freedom --- Mastery --- Kindness ---
 ## PRINCIPLES
 
 Be honest.
+
 The truth shall set you free.
+
 The Golden Rule.
+
 Honor thy Father and Mother.
+
 Speak truth; act truly.
+
 It is more blessed to give than to receive.
+
 Love thy neighbor.
+
 Conquer with love.
+
 As ye sow, so shall ye reap.
+
 A man is known by his deeds, not by his religion.
+
 Not words or detachment, but action.
+
 Better to examine the self; better to rule the spirit.
+
 Wisdom is more than riches.
+
 Man does not live by bread alone.
+
 Blessed to forgive.
+
 Be slow to anger.
+
 Judge not.
+
 Start when young to seek wisdom.
 
 ## THE UNIVERSALITY OF THE VIRTUES AND PRINCIPLES OF KNOWLEDGISM

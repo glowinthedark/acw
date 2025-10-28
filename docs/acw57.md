@@ -36,27 +36,34 @@ CEO's and School Principals recognize today that a major part of
 their hat is mentoring and coaching.
 
 Main Entry: educe
+
 Pronunciation: i-'düs also -'dyüs
+
 Function: transitive verb
+
 Inflected Form(s): educed; educ·ing
+
 Etymology: Latin educere to draw out, from e- + ducere to lead — more at TOW
+
 Date: 1603
+
 1 : to bring out (as something latent)
+
 2 : DEDUCE
 - educ·ible /-'dü-s&-b&l also -'dyü-/ adjective
 - educ·tion /-'d&k-sh&n/ noun
 
 synonyms EDUCE, EVOKE, ELICIT, EXTRACT, EXTORT mean to draw out
 something hidden, latent, or reserved.  EDUCE implies the bringing out
-of something potential or latent <educed order out of chaos>.  EVOKE
+of something potential or latent "educed order out of chaos".  EVOKE
 implies a strong stimulus that arouses an emotion or an interest or
-recalls an image or memory <a song that evokes warm memories>.  ELICIT
+recalls an image or memory "a song that evokes warm memories".  ELICIT
 usually implies some effort or skill in drawing forth a response
-<careful questioning elicited the truth>.  EXTRACT implies the use of
-force or pressure in obtaining answers or information <extracted a
-confession from him>.  EXTORT suggests a wringing or wresting from one
-who resists strongly <extorted their cooperation by threatening to
-inform>.
+"careful questioning elicited the truth".  EXTRACT implies the use of
+force or pressure in obtaining answers or information "extracted a
+confession from him".  EXTORT suggests a wringing or wresting from one
+who resists strongly "extorted their cooperation by threatening to
+inform".
 
 
 

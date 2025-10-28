@@ -64,8 +64,7 @@ Charge handler violate the processors Code.
 
 The sequence of By-Passed Charge Handling is:
 
-Observe — Notice the non-optimum condition or indicators — Name it -
-- Search — Find the area of charge — Signify it to the client — Verify that it is the correct signified indication by observing the
+Observe — Notice the non-optimum condition or indicators — Name it - Search — Find the area of charge — Signify it to the client — Verify that it is the correct signified indication by observing the
 upscaling of indicators.
 
 The masterful By-Passed Charge handler must be willing to evaluate to

@@ -64,7 +64,7 @@ difference.
 
 3. A distinguishing factor, attribute, or characteristic.
 
-4 a. Excellence or eminence, as of performance, character, or
+4a. Excellence or eminence, as of performance, character, or
 reputation. b. A special feature or quality conferring
 superiority.
 
@@ -127,14 +127,12 @@ a — Coach then says:
 (pause)
 
 "If something strong or even a gripping thought comes up just
-let it
-go." (pause)
+let it go." (pause)
 
 "You'll find that easy to do."
 
 Coach pauses for 20 to 60 seconds to allow time for something
-to
-happen.
+to happen.
 
 b — Coach then asks:
 
@@ -147,8 +145,7 @@ If Student just answers "Yes," Coach says: "Tell me about it."
 c — Coach acknowledges the Student's answer, then asks:
 
 "From where could a spiritual being experience (named
-unpleasant
-sensation)?"
+unpleasant sensation)?"
 
 Repeat until a rise in mood.
 
@@ -156,21 +153,17 @@ Repeat until a rise in mood.
 sensation)?"
 
 This sequence a, b and c is repeated 4 or 5 times, or until
-the
-Student is comfortable.
+the Student is comfortable.
 
 Step Two:
 
 a — Coach says to Student:
 
 "Close your eyes. Now I want you to observe that there are
-spaces between your thoughts, like patches of blue between the
-
-clouds. When you notice such a space just give a nod."
+spaces between your thoughts, like patches of blue between the clouds. When you notice such a space just give a nod."
 
 Student does this and Coach acknowledges gently each nod.
-Coach
-repeats this until Student is comfortable.
+Coach repeats this until Student is comfortable.
 
 b — Coach then asks:
 
@@ -181,13 +174,11 @@ If Student doesn't then move to step three.
 c — If Student does, Coach gets it named and runs:
 
 "From where could a spiritual being experience (named
-unpleasant
-sensation)?"
+unpleasant sensation)?"
 
 Repeat until a rise in mood.
 
-"From where could a spiritual being create (named unpleasant
-sensation)?"
+"From where could a spiritual being create (named unpleasant sensation)?"
 
 Repeat until a rise in mood.
 
@@ -196,8 +187,7 @@ continue to observe the space between your thoughts, and nod
 when you do."
 
 Coach acknowledges each nod and continues to do b, c, and d
-until
-Student is comfortable.
+until Student is comfortable.
 
 Step Three:
 
@@ -217,8 +207,7 @@ c — Coach asks: "Where is your vision?"
 Student answers and Coach acknowledges.
 
 d — Coach asks: "Where are you in relation to your vision,
-your
-mind or thoughts, and your body?"
+your mind or thoughts, and your body?"
 
 Student answers and Coach acknowledges.
 
@@ -227,8 +216,7 @@ Student answers and Coach acknowledges.
 If so, get it named and ask:
 
 "From where could a spiritual being experience (named
-unpleasant
-sensation)?"
+unpleasant sensation)?"
 
 Repeat until a rise in mood.
 
@@ -238,8 +226,7 @@ sensation)?"
 Repeat until a rise in mood.
 
 Coach repeats Step Two and Step Three a-b-c-d several times
-until
-Student is comfortable or has a big "Aha!".
+until Student is comfortable or has a big "Aha!".
 
 e — Coach then asks: "Where is the identity you create by the
 
@@ -248,8 +235,7 @@ combination of you, your vision, your mind, and your body?"
 Student answers and Coach acknowledges.
 
 f — Coach asks: "What are some of the abilities that you gave
-to
-that identity?"
+to that identity?"
 
 Student answers and Coach acknowledges.
 
@@ -259,8 +245,7 @@ those abilities that you have given to that identity?"
 Student answers and Coach acknowledges.
 
 h — Coach asks: "What are some of the liabilities you gave to
-that
-identity?"
+that identity?"
 
 Student answers and Coach acknowledges.
 
@@ -274,8 +259,7 @@ Student answers and Coach acknowledges.
 If so, get it named and ask:
 
 "From where could a spiritual being experience (named
-unpleasant
-sensation)?"
+unpleasant sensation)?"
 
 Repeat until a rise in mood.
 
@@ -288,8 +272,7 @@ Coach repeats steps a-b-c-d-e-f-g-h-i until Student has major
 Cause Indicators.
 
 j — Coach then asks: "What telepathic image is it okay for
-you to
-project?"
+you to project?"
 
 Student answers and Coach acknowledges.
 
@@ -298,8 +281,7 @@ Student answers and Coach acknowledges.
 If so, get it named and ask:
 
 "From where could a spiritual being experience (named
-unpleasant
-sensation)?"
+unpleasant sensation)?"
 
 Repeat until a rise in mood.
 
@@ -309,17 +291,11 @@ sensation)?"
 Repeat until a rise in mood.
 
 The end product of this exercise should be someone aware of
-self
-spiritually, much more present and aware that they have
-created
-their life the way it is, and that it follows the basic
+self spiritually, much more present and aware that they have
+created their life the way it is, and that it follows the basic
 paradigm of life.
 
 ALAN C. WALTER
 Training Series 2 / December 5, 1991
 Copyright © 1994
 ALL RIGHTS RESERVED
-
-
-
-

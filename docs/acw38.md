@@ -215,9 +215,7 @@ A by-passed WANT acts as an incomplete list or unflat process.
 An UNWANTED WANT acts as a wrong item.
 
 If the area or subject is very highly charged, you can break it up into its
-component parts.
-
-i.e. A SESSION.
+component parts. i.e. A SESSION.
 
 Processors, processes, eductive comm. cycles, wins, Ascension States,
 losses, the room, the environment, the meter, etc.

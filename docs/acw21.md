@@ -85,9 +85,9 @@ All the Presence Processes include this.
 To comprehend the size and scope of the bubble all you have to do is
 ask:
 
-Where are you?
+- Where are you?
 
-How big are you?
+- How big are you?
 
 We start all our sessions with these steps in our model sessions. We do
 not proceed with the mainline processes until the being is larger than

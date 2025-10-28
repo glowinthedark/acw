@@ -75,15 +75,15 @@ observing someone trying to get free of some "engulfment."
 A vital part of sovereignty is being able to maintain ownership and
 control over:
 
-Your Own Space.
+- Your Own Space.
 
-Your Own Time.
+- Your Own Time.
 
-Your Own Time track.
+- Your Own Time track.
 
-Your Own Energy.
+- Your Own Energy.
 
-Your Own Objects.
+- Your Own Objects.
 
 When you lose the ability to be master of your own space, time, energy
 or objects, you are to that degree being "engulfed."

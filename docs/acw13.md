@@ -1,8 +1,8 @@
 
----------- Forwarded message ----------
-Date: Sat, 14 Jun 1997 09:26:58 -0400 (EDT)
-From: Alan Walter <wisdom@cyberstation.net>
-To: Multiple recipients of list <clear-l@lightlink.com>
+---------- Forwarded message ---------- \
+Date: Sat, 14 Jun 1997 09:26:58 -0400 (EDT) \
+From: Alan Walter <wisdom@cyberstation.net> \
+To: Multiple recipients of list <clear-l@lightlink.com> \
 Subject: 3DH: E-Motions, the language of the Spirit
 
 The previous posting Re: 3DH Power Flow, I 

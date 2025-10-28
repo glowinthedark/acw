@@ -7,8 +7,8 @@ come from violations of desires, goals and wants.
 
 Homer
 
+---
 
-------------------------------------------------------------------------
 Homer Wilson Smith     News, Web, Telnet      Art Matrix - Lightlink
 (607) 277-0959         E-mail, FTP, Shell     Internet Access, Ithaca NY
 homer@lightlink.com    info@lightlink.com     http://www.lightlink.com

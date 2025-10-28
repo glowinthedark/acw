@@ -167,27 +167,22 @@ HAPPINESS is the experiencing of the positive mood level, emotions,
 feelings, sensations and full appreciation of having attained what you
 WANTED.
 
-A FRIEND is someone who FINDS OUT what you REALLY WANT and helps you get
-it.
+A FRIEND is someone who FINDS OUT what you REALLY WANT and helps you get it.
 
 AN EFFECTIVE TRUE FRIEND is someone who can IMPLEMENT THE FOLLOWING FORMULA:
 
 1.  Get into meaningful communication with someone with the intent
-
 to help them FIND and CONCEPTUALIZE HOLOGRAPHICALLY what it is they
 
 ## REALLY WANT.
 
 2.  Be able to observe accurately and correctly with the intent to
-
 FIND and CONCEPTUALIZE HOLOGRAPHICALLY what it is they REALLY WANT.
 
 3.  Able to ask the right questions to FIND and CONCEPTUALIZE
-
 HOLOGRAPHICALLY what it is they REALLY WANT.
 
 4.  STATE ACCURATELY and NAME with FULL HOLOGRAPHIC IMAGERY exactly
-
 what it is they REALLY WANT.
 
 5.  DO EVERYTHING WITHIN YOUR POWER TO HELP THEM OBTAIN WHAT THEY
@@ -280,44 +275,43 @@ to be created.  They are:
 
 1. You are spiritually PRESENT.
 
-2. You have a DREAM or INTENTION.
-
-3. You have a COMPLETE HOLOGRAPHIC VISION of that DREAM or
+2. You have a DREAM or INTENTION
+  
+4. You have a COMPLETE HOLOGRAPHIC VISION of that DREAM or
 INTENTION.
 
-4. Your MIND has reinforced your HOLOGRAPHIC VISION with
+5. Your MIND has reinforced your HOLOGRAPHIC VISION with
 MENTALIMAGE PICTURES.
 
-5. You collide with someone who does not VALUE, ACKNOWLEDGE or
+6. You collide with someone who does not VALUE, ACKNOWLEDGE or
 APPRECIATE your DREAM, VISION OR CREATIONS, and who has their
 own RIGHTNESS they want to ENFORCE on YOU.
 
-6. You are viciously attacked, made nothing of, made wrong,
+7. You are viciously attacked, made nothing of, made wrong,
 punished and abused, none of which you wanted.
 
-7.  An "ALIEN UNWANTED OBJECT" is forced into your space and
-time.
+8.  An "ALIEN UNWANTED OBJECT" is forced into your space and time.
 
-8.  Your DREAMS, HOLOGRAPHIC VISIONS and CREATIONS COLLAPSE into
+9.  Your DREAMS, HOLOGRAPHIC VISIONS and CREATIONS COLLAPSE into
 chaotic rubble and cannot be reconstructed as the "ALIEN
 UNWANTED OBJECT" is now occupying their spaces and times.
 
-9.  A massive UPSET has been created.
+10.  A massive UPSET has been created.
 
-10. Your ability to HAVE in those areas is destroyed.
+11. Your ability to HAVE in those areas is destroyed.
 
-11. Your DREAMS, VISIONS, and CREATIONS become unattainable.
+12. Your DREAMS, VISIONS, and CREATIONS become unattainable.
 
-12. You create a RIGHTNESS DEFENSE CONTROL MECHANISM to suppress
+13. You create a RIGHTNESS DEFENSE CONTROL MECHANISM to suppress
 and manage the force, pain, unpleasant sensations, rage, hate,
 abuse and charge contained in the UPSET, in order to continue to
 survive in the present.
 
-13.  You now REAP the CONSEQUENCES of your RIGHTNESS DEFENSE CONTROL MECHANISM.
+14.  You now REAP the CONSEQUENCES of your RIGHTNESS DEFENSE CONTROL MECHANISM.
 
-14.  You now cannot HAVE what you WANT.
+15.  You now cannot HAVE what you WANT.
 
-15.  You now cannot allow others to HAVE what they WANT.
+16.  You now cannot allow others to HAVE what they WANT.
 
 ## APPLYING THE WRONG TECHNOLOGY TO YOUR LIFE
 
@@ -514,7 +508,9 @@ ability the client has to become and have great prosperity.
 ALAN C. WALTER
 10 January 1996
 Copyright © 1996 Alan C. Walter ALL RIGHTS RESERVED
-____________________________________________________________________
+
+---
+
 21st Century New Public Series 9
 
 

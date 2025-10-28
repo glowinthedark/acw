@@ -3,9 +3,7 @@ There are many different RV disciplines, I know a little about some of
 them. Our form would probably come under the heading of Extended
 Presence Remote Viewing.
 
-Here is an answer I gave to someone else. Hope it clarifies the area for
-
-you.
+Here is an answer I gave to someone else. Hope it clarifies the area for you.
 
 The Viewer is the being itself. Thus it is vital that the Viewer is
 enhanced.

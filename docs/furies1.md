@@ -14,11 +14,8 @@ and contained in a degrading, inhibition of powers and self in a
 restraining psychic box.
 
 This sets up a compulsive exterior
-
 elsewhereness, and a can't get in and stay in
-
 to successfully play the games of life,
-
 phenomena.
 
 or
@@ -27,11 +24,8 @@ or
 Spiritual Selves.
 
 This creates a chronic stuck in, can't get out
-
 of, situation, that traps the being
-
 into constant failure, poverty and unhappiness
-
 in life phenomena.
 
 Both of these terrifying FEARS stem from the same destructive
@@ -363,9 +357,11 @@ subjects and things.
 
 "THE FURIES" PHENOMENA TWO MANIFESTATIONS:
 
-## AN OVERWHELMING IMPLOSION.  CAUSING THE COMPLETE INWARD COLLAPSE OF THE SPIRITUAL BEINGS OWN UNIVERSE.
+- AN OVERWHELMING IMPLOSION.  CAUSING THE COMPLETE INWARD COLLAPSE OF THE SPIRITUAL BEINGS OWN UNIVERSE.
 
-## THIS INCLUDES THE INWARD COLLAPSE AND COMPRESSION OF ALL OF IT'S PAST, PRESENT AND FUTURE HOLOGRAPHIC CREATIONS, WANTS, DREAMS, TELEPATHIC VISIONS, PSYCHIC CONNECTIONS, COMMAND AND COMMUNICATION LINES INVOLVED IN AND CONNECTED TO, THE AREA, SUBJECT OR PEOPLE THE BEING IS FURIOUS ABOUT.
+- THIS INCLUDES THE INWARD COLLAPSE AND COMPRESSION OF ALL OF IT'S PAST, PRESENT AND FUTURE HOLOGRAPHIC CREATIONS,
+WANTS, DREAMS, TELEPATHIC VISIONS, PSYCHIC CONNECTIONS, COMMAND AND COMMUNICATION LINES INVOLVED IN AND CONNECTED TO,
+THE AREA, SUBJECT OR PEOPLE THE BEING IS FURIOUS ABOUT.
 
 If you have ever experienced the excruciating pain and agony of a
 broken heart, you have been the effect of "The Furies" phenomena two
@@ -643,8 +639,9 @@ In time we will all have our Super Beingness, abilities,
 potentials, love, harmony, truth, knowledge and powers fully restored
 and rehabilitated.
 
-## ALL IT TAKES IS A FULL APPLICATION OF THE FURIES HANDLING
-PROCEDURES TECHNOLOGY, Anything less, is extreme cowardice, fake
+ALL IT TAKES IS A FULL APPLICATION OF THE FURIES HANDLING PROCEDURES TECHNOLOGY
+
+Anything less, is extreme cowardice, fake
 technology and gross irresponsibility.
 
 ALAN C. WALTER

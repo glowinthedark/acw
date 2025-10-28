@@ -81,7 +81,7 @@ invalidate their BOGNITIONS.
 Any area in life you are having trouble with or are in scarcity
 with is an area you have BOGNITED about.
 
-## ALAN
+ALAN
 
 ---
 

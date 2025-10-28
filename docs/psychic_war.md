@@ -33,7 +33,7 @@ choosing.
 
 ## TO RECOVER ALL OF YOUR POWER AND POTENTIALITY REQUIRES THAT YOU HOLOGRAPHICALLY PERMEATE ALL THAT YOU HAVE SPENT TRILLENIA AVOIDING.
 
-     * * * * *
+---
 
 ## ALWAYS, ALWAYS TAKE YOUR NEXT UPWARD STEP
 
@@ -92,7 +92,7 @@ This war was based upon:
 
 SPIRITUAL KNOWLEDGE vs.  SPIRITUAL IGNORANCE
 
-     * * * * *
+---
 
 ## THE OPPONENTS
 
@@ -127,7 +127,7 @@ something less than they truly are.
 There are four basic psychic harmful or destructive acts that are
 committed by warring aberrant spiritual beings.  They are:
 
-1.  THE INABILITY, OR FAILURE, OR REFUSAL TO BE PRESENT.
+### 1.  THE INABILITY, OR FAILURE, OR REFUSAL TO BE PRESENT.
 
 The lack of presence creates an absence of causativeness,
 awareness, observation and empowerment.  This in turn causes an
@@ -169,7 +169,7 @@ Without a spiritual being’s full presence, all you have in front
 of you is a substitute programmed identity that is incapable of pure
 love, truth or honor.
 
-2.  THE INABILITY, OR FAILURE, OR REFUSAL TO HOLOGRAPHICALLY PERMEATE.
+### 2.  THE INABILITY, OR FAILURE, OR REFUSAL TO HOLOGRAPHICALLY PERMEATE.
 
 The lack of holographic permeation is the basic barrier to
 attaining the purity of truth, knowledge, love, mastery and oneness
@@ -196,7 +196,7 @@ to avoid what needs to be holographically permeated.
 To maintain your disguises it is necessary for you to suppress
 yours and others abilities to holographically permeate.
 
-3.  THE INABILITY, OR FAILURE, OR REFUSAL TO TELEPATHICALLY PROJECT POSITIVE OR UPGRADING HOLOGRAPHIC IMAGERY.
+### 3.  THE INABILITY, OR FAILURE, OR REFUSAL TO TELEPATHICALLY PROJECT POSITIVE OR UPGRADING HOLOGRAPHIC IMAGERY.
 
 The lack of positive or upgrading telepathic imagery on to others
 and yourself is a form of powerful destructive, degrading negative
@@ -228,7 +228,7 @@ unimportant, small, massive wastes of time and effort games, i.e.
 chasing bags of wind in your underwear (e.g.  football, basketball,
 etc.)
 
-## THE SECRET WEAPON OF SPIRITUAL DOMINATION
+##### THE SECRET WEAPON OF SPIRITUAL DOMINATION
 
 How does a being justify making it okay to telepathically project
 degrading imagery?
@@ -240,7 +240,7 @@ unhappiness.
 
 What is this terrible weapon?
 
-## UNREACHABLE PERFECTIONISM.
+##### UNREACHABLE PERFECTIONISM.
 
 This is the reverse use of telepathically projected imagery; its
 intent is to set impossible to achieve concepts, visions and
@@ -284,7 +284,7 @@ never able to win, a hopeless victim of unreachable perfectionism, is
 insane and will destroy any spiritual being and make nothing of their
 psychic powers.
 
-4.  THE INABILITY, OR FAILURE, OR REFUSAL TO ACKNOWLEDGE OR APPRECIATE.
+### 4.  THE INABILITY, OR FAILURE, OR REFUSAL TO ACKNOWLEDGE OR APPRECIATE.
 
 The lack of acknowledgment or appreciation can produce disastrous
 effects on others and yourself.
@@ -323,17 +323,17 @@ But if you cannot face up to what is there (too much pain, hurt,
 force and charge) you will not be able to acknowledge or appreciate.
 YOU have become a weapon of destruction to yourself and others.
 
-     * * * * *
+---
 
-## THESE FOUR NEGATIVE PROCESS ACTIONS ARE THE FOUNDATION OF THE SPIRITUAL BEING'S MOST BASIC PSYCHIC POWERS VIOLATIONS.
+##### THESE FOUR NEGATIVE PROCESS ACTIONS ARE THE FOUNDATION OF THE SPIRITUAL BEING'S MOST BASIC PSYCHIC POWERS VIOLATIONS.
 
-## THIS IS THE BASIC SOURCE OF ALL SPIRITUAL DEGRADATION OF OURSELVES, OUR TEAMMATES, OUR FELLOW SPIRITUAL ASSOCIATES, AND THE PLAYING OF DEGRADED GAMES, INCLUDING WHAT LIES BEHIND ALL OF OUR NON OPTIMUM SITUATIONS, PROBLEMS AND IDENTITIES.
+##### THIS IS THE BASIC SOURCE OF ALL SPIRITUAL DEGRADATION OF OURSELVES, OUR TEAMMATES, OUR FELLOW SPIRITUAL ASSOCIATES, AND THE PLAYING OF DEGRADED GAMES, INCLUDING WHAT LIES BEHIND ALL OF OUR NON OPTIMUM SITUATIONS, PROBLEMS AND IDENTITIES.
 
-## WHY ARE WE DOING THIS TO OURSELVES?
+### WHY ARE WE DOING THIS TO OURSELVES?
 
-     * * * * *
+---
 
-THE "EVIL BEINGS"
+##### THE "EVIL BEINGS"
 
 I have deliberately put the "evil being" designation in quotes as
 anyone who opposes your goals is automatically categorized as an enemy
@@ -446,7 +446,7 @@ identities of being like, doing like and having like "the ultimate
 betrayers" or their created "victims." The Gods have become that which
 they hate the most.
 
-## MOST FORMER GODLIKE BEINGS ARE NOW ALMOST COMPLETELY SUBMERGED IN IGNORANCE THAT IS ENCASED IN SO MUCH PAIN AND THE PAIN HURTS SO BADLY THAT WHEN THE OPPORTUNITY TO STRIKE A BLOW FOR THEIR SPIRITUAL FREEDOM PRESENTS ITSELF, IT AUTOMATICALLY TRIGGERS THE IGNORANCE, PAIN AND HURT AND THEY FEEL THEY DO NOT KNOW WHAT CAN BE DONE, OR NOTHING CAN BE DONE, OR THEY MUST AVOID THIS AREA SO THEY INVENT OR CREATE AN UPSET OR PROBLEM ABOUT AN IMAGINED FALSE THREATENING SITUATION AND USE THAT AS A JUSTIFICATION TO LEAVE, RUN AWAY OR HIDE.
+##### MOST FORMER GODLIKE BEINGS ARE NOW ALMOST COMPLETELY SUBMERGED IN IGNORANCE THAT IS ENCASED IN SO MUCH PAIN AND THE PAIN HURTS SO BADLY THAT WHEN THE OPPORTUNITY TO STRIKE A BLOW FOR THEIR SPIRITUAL FREEDOM PRESENTS ITSELF, IT AUTOMATICALLY TRIGGERS THE IGNORANCE, PAIN AND HURT AND THEY FEEL THEY DO NOT KNOW WHAT CAN BE DONE, OR NOTHING CAN BE DONE, OR THEY MUST AVOID THIS AREA SO THEY INVENT OR CREATE AN UPSET OR PROBLEM ABOUT AN IMAGINED FALSE THREATENING SITUATION AND USE THAT AS A JUSTIFICATION TO LEAVE, RUN AWAY OR HIDE.
 
 The moment of avoidance instantly creates them as one of "THE
 COWARDS OF THE UNIVERSE," for they have abandoned their
@@ -504,7 +504,7 @@ those who love and trust you, as did Adolph Hitler, Joseph Stalin, et
 al who betrayed those who trusted them to be and do what they
 promised.
 
-## THE MASSIVE UNIVERSE WIDE IGNORANCE CREATION CONSPIRACY
+##### THE MASSIVE UNIVERSE WIDE IGNORANCE CREATION CONSPIRACY
 
 There is a massive universe wide conspiracy to prevent the use of
 psychic powers by blocking them with pain, with the total intention of
@@ -609,7 +609,7 @@ into "subduers," or "betrayers," or "victims."
 
 Wars are a lose - lose activity.  Everybody loses.
 
-## THE WAR HAS ENDED!!
+##### THE WAR HAS ENDED!!
 
 On the 5th of March, 1994 a momentous event took place.
 
@@ -645,7 +645,7 @@ the original evil beings.
 I have covered much of this data in the book Gods in Disguise,
 and the lectures on the Prime Source Axiom "Codes" course.
 
-     * * * * *
+---
 
 ## WHAT DOES THIS END OF THE PSYCHIC WAR MEAN?
 
@@ -686,7 +686,7 @@ As the spiritual skills and psychic abilities are recovered by
 the people, the planet will enter the golden age which over time will
 spread throughout the universes.
 
-     * * * * *
+---
 
 ## YOU ARE THE VITAL KEY TO THE GOLDEN AGE
 
@@ -702,7 +702,7 @@ At the same time you will recover your and your spiritual
 teammate's knowledge, processing skills and spiritual abilities to
 transform others to their full Super Being potentials.
 
-## ALAN C.  WALTER
+ALAN C.  WALTER
 
 25 August 1995
 Revised 15 December 1995

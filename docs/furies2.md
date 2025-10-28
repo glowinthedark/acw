@@ -1,5 +1,4 @@
-
-PRACTICES, PRACTITIONERS AND CLIENTS MISDIRECTIONS, TRICKS, DENIALS AND AVOIDANCES, CONNECTED TO "THE FURIES"
+## PRACTICES, PRACTITIONERS AND CLIENTS MISDIRECTIONS, TRICKS, DENIALS AND AVOIDANCES, CONNECTED TO "THE FURIES"
 
 "The Furies" have remained unhandled on all Spiritual Beings'
 cases, because they contain huge powerful quantities of disruptive,
@@ -128,5 +127,6 @@ warm, trusting, close, friendliness and purity of TRUTH.
 
 8 March 1996 Copyright  1996 Alan C.  Walter ALL RIGHTS RESERVED
 
-______________________________________________________________________
+---
+
 21st Century New Public Series 20

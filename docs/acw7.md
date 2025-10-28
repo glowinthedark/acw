@@ -59,16 +59,16 @@ Step Three:    PROCESSING THE CULT.
 
 13. Ask:   What acceptable identities did  CULT GAME PROGRAM create?
 
-	    - Run: Presence Process 3 and 4.
+- Run: Presence Process 3 and 4.
 
 14. Ask:   What unacceptable identities did CULT GAME PROGRAM create?
 
-	    - Run Presence Process 3 and 4.
-	    - The Presence Processes can be found at http://www.knowledgism.com
+- Run Presence Process 3 and 4.
+- The Presence Processes can be found at http://www.knowledgism.com
 
 15. Ask:   Connected to the CULT GAME PROGRAM what was it okay to do?
 
-        -Repetitive to F/N.
+ - Repetitive to F/N.
 
 16. Ask:   Connected to the CULT GAME PROGRAM  what was not okay to do?
 
@@ -78,38 +78,38 @@ Step Three:    PROCESSING THE CULT.
 
 19. Add and run the following areas to  commands 17 - 18:
 
-	• to earn?
+- to earn?
 
-	• to lie about?
+- to lie about?
 
-	• to tell the truth about?
+- to tell the truth about?
 
-	• to know?
+- to know?
 
-	• to understand?
+- to understand?
 
-	• to be present with?
+- to be present with?
 
-	• to not be present with?
+- to not be present with?
 
-	• to position yourself with?
+- to position yourself with?
 
-	• to position yourself against?
+- to position yourself against?
 
-	• to make decisions about?
+- to make decisions about?
 
-	• to spend time on?
+- to spend time on?
 
-	• to have interest in?
+- to have interest in?
 
-	• to focus attention on?
+- to focus attention on?
 
-	• to not focus attention on?
+- to not focus attention on?
 
-	• to tacitly agree with?
+- to tacitly agree with?
 
-	• to tacitly disagree against?
+- to tacitly disagree against?
 
-	• to oppose?
+- to oppose?
 
-	• to not oppose?
+- to not oppose?

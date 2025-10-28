@@ -298,8 +298,7 @@ can cause a SHORT CIRCUIT and ends up sticking a being into a losing
 identity that acts as a continuous NEGATIVE POLE.
 
 It takes a great deal of patience to handle someone who has been
-violated by the mis-application of the “administration”  - “technology”
-- and “ethics” of previous practices.
+violated by the mis-application of the “administration”  - “technology” - and “ethics” of previous practices.
 
 Not only has it been done to you, but you have in turn done it to
 others. That's never easy to confront. But you must HONOR the GREEN ZONE

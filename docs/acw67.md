@@ -6,8 +6,7 @@ PRESENCE.
 Everything in your universe, your levels of existences, levels
 of truth, levels of love, levels of success, levels of
 prosperity, levels of happiness, levels of honesty, levels of
-integrity, operation of your Codes, Virtues and Principles - past
-- present - future - depends for its power on your PRESENCE.
+integrity, operation of your Codes, Virtues and Principles - past - present - future - depends for its power on your PRESENCE.
 
 Yet few, if any have truly understood the vast scope and power of
 this word and subject.

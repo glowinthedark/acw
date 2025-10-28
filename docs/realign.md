@@ -1,15 +1,15 @@
 
 >
->On Sun, 8 Dec 1996, Homer W. Smith wrote:
+> On Sun, 8 Dec 1996, Homer W. Smith wrote:
 
->     Alan you have to read it from the newbie point of view.
+> Alan you have to read it from the newbie point of view.
 > 
->     This girl went from total overwhelm to total cure in 7 hours on ONE
->QUESTION, and didn't even have the decency to post the damn question. 
+>  This girl went from total overwhelm to total cure in 7 hours on ONE
+> QUESTION, and didn't even have the decency to post the damn question. 
 > 
->     It's like "Hey guys I discovered the solution to pain for the whole
->universe, it's just one little question, ain't that great!" The goes on
->for 17 pages saying how great it was without ever saying WHAT it was.
+> It's like "Hey guys I discovered the solution to pain for the whole
+> universe, it's just one little question, ain't that great!" The goes on
+> for 17 pages saying how great it was without ever saying WHAT it was.
 
 ## ACW:
 

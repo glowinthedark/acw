@@ -29,14 +29,12 @@ http://www.knowledgism.com/know.html
 
 ## THE KNOWLEDGE ERA
 
-8000 YEARS OF MOSTLY-FORWARD PROGRESS
+### 8000 YEARS OF MOSTLY-FORWARD PROGRESS
 
 An evolution of paradigms is always in progress.  Those who stay
 on top of the changes find themselves in the right place at the right
 time, changing to new paradigms as old ones become less viable.  Those
-who
-
-cannot keep up with the change, or who have a vested interest in
+who cannot keep up with the change, or who have a vested interest in
 the old ways, fight and oppose change and get left behind.
 
 The first trend on the chart is the Evolution of Knowledge
@@ -69,9 +67,7 @@ the literate nations' populations.
 ## THE KNOWLEDGE ERA
 
 With knowledge the primary source of power, the 1990's and the
-21st
-
-century will become the Knowledge Era.
+21st century will become the Knowledge Era.
 
 Today, with our ability to record knowledge and skills on a
 memory chip, the innovation of smart, skilled machines will
@@ -87,21 +83,25 @@ from the changes to improve your success, prosperity, and happiness?
 Obviously, the technological elite, as well as people-handling
 skills (not just for the sick and elderly but for the young and able),
 will be in great demand.  As we move into the Knowledge Era, the
-successful paradigms
-
-will be knowledge-based.
+successful paradigms will be knowledge-based.
 
 http://www.knowledgism.com/trends.html
 
 ## DEFINITIONS OF KEY WORDS:
 
 Main Entry: knowl·edge
+
 Pronunciation: 'nä-lij
+
 Function: noun
+
 Etymology: Middle English knowlege, from knowlechen to acknowledge,
 irregular from knowen
+
 Date: 14th century
+
 1 obsolete : COGNIZANCE
+
 2 a (1) : the fact or condition of knowing something with familiarity
 gained through experience or association (2) : acquaintance with or
 understanding of a science, art, or technique b (1) : the fact or
@@ -127,14 +127,18 @@ field of study or investigation "a work of first-rate literary
 scholarship".
 
 Main Entry: -ism
+
 Function: noun suffix
+
 Etymology: Middle English -isme, from Middle French & Latin; Middle
 French, partly from Latin -isma (from Gk) & partly from Latin -ismus,
 from Greek -ismos; Greek -isma & -ismos, from verbs in -izein -ize
+
 1 a : act : practice : process "criticism" "plagiarism" b : manner of
 action or behavior characteristic of a (specified) person or thing
 "animalism" c : prejudice or discrimination on the basis of a
 (specified) attribute "racism" "sexism"
+
 2 a : state : condition : property "barbarianism" b : abnormal state or
 condition resulting from excess of a (specified) thing "alcoholism" or
 marked by resemblance to (such) a person or thing "mongolism"
@@ -143,16 +147,21 @@ class of principles "stoicism"
 4 : characteristic or peculiar feature or trait "colloquialism"
 
 Main Entry: -ist
+
 Function: noun suffix
+
 Etymology: Middle English -iste, from Old French & Latin; Old French
 -iste, from Latin -ista, -istes,
 from Greek -istEs, from verbs in -izein -ize
+
 1 a : one that performs a (specified) action "cyclist" : one that makes
 or produces a (specified) thing "novelist" b : one that plays a
 (specified) musical instrument "harpist" c : one that operates a
 (specified) mechanical instrument or contrivance "automobilist"
+
 2 : one that specializes in a (specified) art or science or skill
 "geologist" "ventriloquist"
+
 3 : one that adheres to or advocates a (specified) doctrine or system or
 code of behavior "socialist" "royalist" "hedonist" or that of a
 (specified) individual "Calvinist" "Darwinist"
@@ -172,30 +181,46 @@ The sequence goes something like this:
 area.  You are completely separate from.
 
 Main Entry: 1sep·a·rate
+
 Pronunciation: 'se-p(&-)"rAt
+
 Function: verb
+
 Inflected Form(s): -rat·ed; -rat·ing
+
 Etymology: Middle English, from Latin separatus, past participle of
 separare, from se- apart + parare to prepare, procure — more at SECEDE, PARE
+
 Date: 15th century
+
 transitive senses
+
 1 a : to set or keep apart : DISCONNECT, SEVER b : to make a distinction
 between : DISCRIMINATE, DISTINGUISH "separate religion from magic" c :
 SORT "separate mail" d : to disperse in space or time : SCATTER "widely
 separated homesteads>
+
 2 archaic : to set aside for a special purpose : CHOOSE, DEDICATE
+
 3 : to part by a legal separation: a : to sever conjugal ties with b :
 to sever contractual relations with :
 DISCHARGE "separated from the army"
+
 4 : to block off : SEGREGATE
+
 5 a : to isolate from a mixture : EXTRACT "separate cream from milk" b :
 to divide into constituent parts
+
 6 : to dislocate (as a shoulder) especially in sports intransitive
 senses
+
 1 : to become divided or detached
+
 2 a : to sever an association : WITHDRAW b : to cease to live together
 as a married couple
+
 3 : to go in different directions
+
 4 : to become isolated from a mixture
 
 synonyms SEPARATE, PART, DIVIDE, SEVER, SUNDER, DIVORCE mean to
@@ -216,15 +241,23 @@ responsibility>.
 value or importance.  So it is ignored.
 
 Main Entry: ig·nore
+
 Pronunciation: ig-'nOr, -'nor
+
 Function: transitive verb
+
 Inflected Form(s): ig·nored; ig·nor·ing
+
 Etymology: obsolete ignore to be ignorant of, from French ignorer, from
 Latin ignorare, from ignarus ignorant, unknown, from in- + gnoscere,
 noscere to know — more at KNOW
+
 Date: 1801
+
 1 : to refuse to take notice of
+
 2 : to reject (a bill of indictment) as ungrounded
+
 synonym see NEGLECT
 - ig·nor·able /-'nOr-&-b&l, -'nor-/ adjective
 - ig·nor·er noun
@@ -234,23 +267,34 @@ area.  So you buy a book or attend some form of introduction to the
 subject or area.
 
 Main Entry: be·gin·ner
+
 Pronunciation: bi-'gi-n&r
+
 Function: noun
+
 Date: 14th century
-: one that begins something; especially : an inexperienced person
+
+one that begins something; especially : an inexperienced person
 
 4.  Your interest, value and recognition of the importance of the
 subject or area undergoes a shift.  You enrol in a course of study.
 
 Main Entry: stu·dent
+
 Pronunciation: 'stü-d&nt, 'styü-, chiefly Southern -d&nt
+
 Function: noun
+
 Usage: often attributive
+
 Etymology: Middle English, from Latin student-, studens, from present
 participle of studEre to study
 -- more at STUDY
+
 Date: 14th century
+
 1 : SCHOLAR, LEARNER; especially : one who attends a school
+
 2 : one who studies : an attentive and systematic observer
 
 5.  You become an apprentice.  This is a vital yet often ommited
@@ -258,15 +302,21 @@ step.  A good apprenticeship allows you to not know about a subject or
 area.  It allows you to make mistakes without undue punishment.
 
 Main Entry: 1ap·pren·tice
+
 Pronunciation: &-'pren-t&s
+
 Function: noun
+
 Etymology: Middle English aprentis, from Middle French, from Old French,
 from aprendre to learn,
 from Latin apprendere, apprehendere
+
 Date: 14th century
+
 1 a : one bound by indenture to serve another for a prescribed period
 with a view to learning an art or trade b : one who is learning by
 practical experience under skilled workers a trade, art, or calling
+
 2 : an inexperienced person : NOVICE "an apprentice in cooking"
 - ap·pren·tice·ship /-t&(sh)-"ship, -t&s-"ship/ noun
 
@@ -274,9 +324,13 @@ practical experience under skilled workers a trade, art, or calling
 internship.
 
 Main Entry: 3in·tern
+
 Variant(s): also in·terne /'in-"t&rn/
+
 Function: noun
+
 Etymology: French interne, from interne, adjective
+
 Date: circa 1879
 : an advanced student or graduate usually in a professional field (as
 medicine or teaching) gaining supervised practical experience (as in a
@@ -287,12 +341,18 @@ hospital or classroom)
 will be very limited.  You are a journeyman.
 
 Main Entry: jour·ney·man
+
 Pronunciation: -m&n
+
 Function: noun
+
 Etymology: Middle English, from journey journey, a day's labor + man
+
 Date: 15th century
+
 1 : a worker who has learned a trade and works for another person
 usually by the day
+
 2 : an experienced reliable worker or performer especially as
 distinguished from one who is brilliant or colorful "a good journeyman
 trumpeter — New Yorker> "a journeyman outfielder"
@@ -302,10 +362,15 @@ trumpeter — New Yorker> "a journeyman outfielder"
 You become a craftsman.
 
 Main Entry: crafts·man
+
 Pronunciation: 'kraf(t)s-m&n
+
 Function: noun
+
 Date: 13th century
+
 1 : a worker who practices a trade or handicraft
+
 2 : one who creates or performs with skill or dexterity especially in
 the manual arts "jewelry made by European craftsmen"
 - crafts·man·like /-"lIk/ adjective
@@ -316,8 +381,11 @@ the manual arts "jewelry made by European craftsmen"
 become a master.
 
 Main Entry: mas·tery
+
 Pronunciation: 'mas-t(&-)rE
+
 Function: noun
+
 Etymology: Middle English maistrie, from Old French, from maistre master
 
 Date: 13th century
@@ -338,7 +406,8 @@ into being.
 Alan
  
 ---
-
+```
 Homer Wilson Smith     News, Web, Telnet      Art Matrix - Lightlink
 (607) 277-0959         E-mail, FTP, Shell     Internet Access, Ithaca NY
 homer@lightlink.com    info@lightlink.com     http://www.lightlink.com
+```

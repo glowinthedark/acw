@@ -1,5 +1,4 @@
-
-Serotonin — The Mood Molecule
+# Serotonin — The Mood Molecule
 
 Serotonin is a hormone that acts as a neurotransmitter.  Manufactured by
 the body, it is found along with its receptor sites in the brain, blood

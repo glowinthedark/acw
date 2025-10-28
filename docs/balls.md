@@ -50,8 +50,7 @@ So you have a HUGE BALL composed of 1000's of smaller BALLS.
 Floating free. Outside time and space. (The Gold Zone.)
 
 Now something activates one of the locked balls of mass, it comes alive, it
-begins to go on an automatic or involuntary creation of its own Be — Do -
-- Have. Now you have a time line into that item.
+begins to go on an automatic or involuntary creation of its own Be — Do - Have. Now you have a time line into that item.
 
 This is what your tech is handling. You are using a time line to track back
 to the lock item.
